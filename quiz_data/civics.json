@@ -1,0 +1,91 @@
+{
+    "Civics": {
+        "Chapter 1: Democracy in the Contemporary World": {
+            "What is Democracy?": [
+                {
+                    "question": "What does the word 'democracy' mean?",
+                    "options": [
+                        "Rule by the rich",
+                        "Rule by the people",
+                        "Rule by the military",
+                        "Rule by the educated"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Democracy comes from the Greek words 'demos' (people) and 'kratia' (rule), meaning rule by the people."
+                },
+                {
+                    "question": "In which country did democracy originate?",
+                    "options": [
+                        "Rome",
+                        "Greece",
+                        "Egypt",
+                        "India"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Democracy originated in ancient Greece, particularly in Athens around the 5th century BCE."
+                },
+                {
+                    "question": "What is the key feature of democracy?",
+                    "options": [
+                        "Rule by one person",
+                        "Rule by few people",
+                        "Rule by majority with respect for minority",
+                        "Rule by the wealthy"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "The key feature of democracy is rule by majority while respecting the rights and opinions of minorities."
+                }
+            ],
+            "Features of Democracy": [
+                {
+                    "question": "Elections in a democracy should be:",
+                    "options": [
+                        "Held once in 10 years",
+                        "Free and fair",
+                        "Only for educated people",
+                        "Controlled by the government"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Elections in a democracy must be free and fair, allowing people to choose their representatives without coercion or fraud."
+                },
+                {
+                    "question": "Universal Adult Franchise means:",
+                    "options": [
+                        "Only adults can vote",
+                        "All adults have the right to vote",
+                        "Only educated adults can vote",
+                        "Only wealthy adults can vote"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Universal Adult Franchise means all adult citizens have the right to vote, regardless of their gender, religion, race, or economic status."
+                }
+            ]
+        },
+        "Chapter 2: Constitutional Design": {
+            "Making of Indian Constitution": [
+                {
+                    "question": "Who was the chairman of the Drafting Committee of the Indian Constitution?",
+                    "options": [
+                        "Mahatma Gandhi",
+                        "Jawaharlal Nehru",
+                        "Dr. B.R. Ambedkar",
+                        "Sardar Patel"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "Dr. B.R. Ambedkar was the chairman of the Drafting Committee and is known as the architect of the Indian Constitution."
+                },
+                {
+                    "question": "When was the Indian Constitution adopted?",
+                    "options": [
+                        "15 August 1947",
+                        "26 January 1950",
+                        "26 November 1949",
+                        "2 October 1948"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "The Indian Constitution was adopted on 26 November 1949, but came into effect on 26 January 1950."
+                }
+            ]
+        }
+    }
+}
