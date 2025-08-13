@@ -1,0 +1,91 @@
+{
+    "Economics": {
+        "Chapter 1: The Story of Village Palampur": {
+            "Farming in Palampur": [
+                {
+                    "question": "What is the main economic activity in Palampur?",
+                    "options": [
+                        "Manufacturing",
+                        "Farming",
+                        "Trade",
+                        "Services"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Farming is the main economic activity in Palampur, with 75% of people depending on it for their livelihood."
+                },
+                {
+                    "question": "Which season crop is wheat in Palampur?",
+                    "options": [
+                        "Kharif",
+                        "Rabi",
+                        "Zaid",
+                        "All seasons"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Wheat is a rabi crop grown in winter season (October to April) in Palampur."
+                },
+                {
+                    "question": "What is the main source of irrigation in Palampur?",
+                    "options": [
+                        "Wells",
+                        "Tube wells",
+                        "Canals",
+                        "Rain"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Tube wells are the main source of irrigation in Palampur, providing water throughout the year."
+                }
+            ],
+            "Non-farm Activities": [
+                {
+                    "question": "What percentage of people in Palampur are engaged in non-farm activities?",
+                    "options": [
+                        "15%",
+                        "20%",
+                        "25%",
+                        "30%"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "About 25% of people in Palampur are engaged in non-farm activities like small manufacturing, transport, and shopkeeping."
+                },
+                {
+                    "question": "Which transport is most common in Palampur for short distances?",
+                    "options": [
+                        "Bullock cart",
+                        "Jeep",
+                        "Tractor",
+                        "Bicycle"
+                    ],
+                    "correct_answer": 0,
+                    "explanation": "Bullock carts are commonly used for transporting goods over short distances in Palampur, especially for agricultural produce."
+                }
+            ]
+        },
+        "Chapter 2: People as Resource": {
+            "Human Capital Formation": [
+                {
+                    "question": "What does human capital refer to?",
+                    "options": [
+                        "Number of people",
+                        "Skills and knowledge of people",
+                        "Physical strength",
+                        "Population growth"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Human capital refers to the skills, knowledge, and experience possessed by people that make them economically productive."
+                },
+                {
+                    "question": "Which is the most important investment in human capital?",
+                    "options": [
+                        "Health",
+                        "Education",
+                        "Training",
+                        "All of the above"
+                    ],
+                    "correct_answer": 3,
+                    "explanation": "Education, health, and training are all crucial investments in human capital formation as they enhance people's skills and productivity."
+                }
+            ]
+        }
+    }
+}

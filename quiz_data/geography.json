@@ -1,0 +1,637 @@
+{
+    "Geography": {
+        "Chapter 1: India - Size and Location": {
+            "Location and Extent": [
+                {
+                    "question": "Which meridian is taken as the Standard Meridian of India?",
+                    "options": [
+                        "80°30'E",
+                        "82°30'E",
+                        "85°30'E",
+                        "90°30'E"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "82°30'E longitude is taken as the Standard Meridian of India, passing through Mirzapur in Uttar Pradesh."
+                },
+                {
+                    "question": "The Tropic of Cancer passes through how many Indian states?",
+                    "options": [
+                        "6",
+                        "7",
+                        "8",
+                        "9"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "The Tropic of Cancer passes through 8 Indian states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram."
+                },
+                {
+                    "question": "Which water body separates India from Sri Lanka?",
+                    "options": [
+                        "Arabian Sea",
+                        "Bay of Bengal",
+                        "Palk Strait",
+                        "Indian Ocean"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "The Palk Strait separates India from Sri Lanka. It is a narrow strip of water between the two countries."
+                }
+            ],
+            "India's Neighbors": [
+                {
+                    "question": "How many countries share land boundaries with India?",
+                    "options": [
+                        "5",
+                        "6",
+                        "7",
+                        "8"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "Seven countries share land boundaries with India: Pakistan, Afghanistan, China, Nepal, Bhutan, Bangladesh, and Myanmar."
+                },
+                {
+                    "question": "Which is the smallest neighboring country of India?",
+                    "options": [
+                        "Nepal",
+                        "Bhutan",
+                        "Bangladesh",
+                        "Sri Lanka"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Bhutan is the smallest neighboring country of India in terms of area."
+                }
+            ]
+        },
+        "Chapter 2: Physical Features of India": {
+            "The Himalayan Mountains": [
+                {
+                    "question": "The Himalayas are divided into how many main ranges?",
+                    "options": [
+                        "Two",
+                        "Three",
+                        "Four",
+                        "Five"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "The Himalayas are divided into three main ranges: the Greater Himalayas (Himadri), Lesser Himalayas (Himachal), and Outer Himalayas (Shiwaliks)."
+                },
+                {
+                    "question": "Which is the highest peak in India?",
+                    "options": [
+                        "K2",
+                        "Kanchenjunga",
+                        "Nanda Devi",
+                        "Mount Everest"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Kanchenjunga (8,598m) is the highest peak entirely within India's borders, located on the India-Nepal border."
+                }
+            ]
+        },
+        "Chapter 3: Drainage": {
+            "Types of Drainage System in India": [
+                {
+                    "question": "The drainage system of India is mainly controlled by:",
+                    "options": [
+                        "Climate conditions",
+                        "Broad relief features of the subcontinent",
+                        "Vegetation cover",
+                        "Human activities"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "The broad relief features of the subcontinent determine the direction and type of drainage in India."
+                },
+                {
+                    "question": "Based on the direction of flow, Indian rivers are divided into how many major groups?",
+                    "options": [
+                        "Two",
+                        "Three",
+                        "Four",
+                        "Five"
+                    ],
+                    "correct_answer": 0,
+                    "explanation": "Indian rivers are classified into two major groups: those flowing into the Bay of Bengal and those flowing into the Arabian Sea."
+                },
+                {
+                    "question": "Which type of drainage pattern is formed when rivers flow in different directions from a central peak?",
+                    "options": [
+                        "Dendritic",
+                        "Radial",
+                        "Trellis",
+                        "Rectangular"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "A radial pattern forms when rivers flow outward from a central high point, such as a volcanic cone or dome."
+                },
+                {
+                    "question": "The Arabian Sea drainage system covers what percentage of India's total area?",
+                    "options": [
+                        "77%",
+                        "23%",
+                        "10%",
+                        "13%"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "The Arabian Sea drainage basin covers about 23% of India’s total area."
+                },
+                {
+                    "question": "Rivers flowing into the Bay of Bengal cover approximately what percentage of India's drainage area?",
+                    "options": [
+                        "23%",
+                        "77%",
+                        "50%",
+                        "60%"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "The Bay of Bengal drainage basin covers about 77% of India’s total drainage area."
+                },
+                {
+                    "question": "Which drainage pattern resembles the branching pattern of a tree?",
+                    "options": [
+                        "Radial",
+                        "Dendritic",
+                        "Trellis",
+                        "Centripetal"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Dendritic drainage resembles the branching pattern of a tree, common in regions with uniform rock types."
+                }
+            ],
+            "Stages of Rivers": [
+                {
+                    "question": "In which stage of a river is the erosional work most prominent?",
+                    "options": [
+                        "Old stage",
+                        "Middle stage",
+                        "Youth stage",
+                        "Mature stage"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "In the youth stage, rivers have steep gradients and strong currents, causing intense vertical erosion."
+                },
+                {
+                    "question": "V-shaped valleys are characteristic features of which stage of a river?",
+                    "options": [
+                        "Youth stage",
+                        "Mature stage",
+                        "Old stage",
+                        "Delta stage"
+                    ],
+                    "correct_answer": 0,
+                    "explanation": "V-shaped valleys are carved by rivers in their youth stage due to vertical erosion."
+                },
+                {
+                    "question": "In the middle course of a river, which process is most dominant?",
+                    "options": [
+                        "Erosion only",
+                        "Transportation only",
+                        "Deposition only",
+                        "Both erosion and deposition"
+                    ],
+                    "correct_answer": 3,
+                    "explanation": "In the middle course, rivers have gentler slopes, resulting in both erosion and deposition."
+                },
+                {
+                    "question": "Meandering is a characteristic feature of which stage of a river?",
+                    "options": [
+                        "Youth stage",
+                        "Middle and old stage",
+                        "Youth and middle stage",
+                        "Old stage only"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Meanders are formed mainly in the middle and old stages due to lateral erosion."
+                },
+                {
+                    "question": "In which stage do rivers form deltas?",
+                    "options": [
+                        "Youth stage",
+                        "Middle stage",
+                        "Old stage",
+                        "All stages"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "Deltas form in the old stage when rivers deposit sediments at their mouths."
+                }
+            ],
+            "Himalayan Rivers (Indus River)": [
+                {
+                    "question": "The river Indus rises from:",
+                    "options": [
+                        "Gangotri glacier",
+                        "A glacier near Bokhar Chu in Tibet",
+                        "Yamunotri glacier",
+                        "Milam glacier"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "The Indus originates from a glacier near Bokhar Chu in Tibet."
+                },
+                {
+                    "question": "The Indus flows through which states/regions in India?",
+                    "options": [
+                        "Only Jammu and Kashmir",
+                        "Jammu and Kashmir and Ladakh",
+                        "Himachal Pradesh and Punjab",
+                        "Uttarakhand and Punjab"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "In India, the Indus flows through Jammu and Kashmir and Ladakh."
+                },
+                {
+                    "question": "Which is the longest tributary of the Indus in India?",
+                    "options": [
+                        "Jhelum",
+                        "Chenab",
+                        "Ravi",
+                        "Sutlej"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "The Chenab is the longest tributary of the Indus in India."
+                },
+                {
+                    "question": "The total length of the Indus river is approximately:",
+                    "options": [
+                        "2900 km",
+                        "2880 km",
+                        "3000 km",
+                        "2500 km"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "The Indus River has a total length of about 2880 km."
+                },
+                {
+                    "question": "The Indus river system comprises how many main tributaries?",
+                    "options": [
+                        "Four",
+                        "Five",
+                        "Six",
+                        "Seven"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "The Indus river system includes five main tributaries: Jhelum, Chenab, Ravi, Beas, and Sutlej."
+                },
+                {
+                    "question": "The Indus flows into:",
+                    "options": [
+                        "Bay of Bengal",
+                        "Arabian Sea",
+                        "Indian Ocean directly",
+                        "Persian Gulf"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "The Indus flows into the Arabian Sea near Karachi in Pakistan."
+                }
+            ],
+            "Himalayan Rivers (Ganga)": [
+                {
+                    "question": "The river Ganga emerges from which glacier?",
+                    "options": [
+                        "Yamunotri glacier",
+                        "Pindari glacier",
+                        "Gangotri glacier",
+                        "Milam glacier"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "The Ganga originates from the Gangotri glacier in Uttarakhand."
+                },
+                {
+                    "question": "At which place do Bhagirathi and Alaknanda join to form the Ganga?",
+                    "options": [
+                        "Rishikesh",
+                        "Haridwar",
+                        "Devprayag",
+                        "Rudraprayag"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "The Bhagirathi and Alaknanda join at Devprayag to form the Ganga."
+                },
+                {
+                    "question": "The length of the river Ganga is:",
+                    "options": [
+                        "2500 km",
+                        "2525 km",
+                        "2510 km",
+                        "2480 km"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "The total length of the Ganga is about 2510 km."
+                },
+                {
+                    "question": "Which is the longest tributary of the Ganga?",
+                    "options": [
+                        "Yamuna",
+                        "Ghaghara",
+                        "Gandak",
+                        "Kosi"
+                    ],
+                    "correct_answer": 0,
+                    "explanation": "The Yamuna is the longest tributary of the Ganga."
+                },
+                {
+                    "question": "The Ganga river system drains a total area of:",
+                    "options": [
+                        "10 lakh sq km",
+                        "8.6 lakh sq km",
+                        "12 lakh sq km",
+                        "9.5 lakh sq km"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "The Ganga basin drains an area of about 8.6 lakh sq km."
+                },
+                {
+                    "question": "Hugli is a distributary of which river?",
+                    "options": [
+                        "Brahmaputra",
+                        "Ganga",
+                        "Yamuna",
+                        "Mahanadi"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Hugli is a distributary of the Ganga River."
+                },
+                {
+                    "question": "The world's largest delta formed by Ganga and Brahmaputra is located in:",
+                    "options": [
+                        "West Bengal only",
+                        "Bangladesh only",
+                        "West Bengal and Bangladesh",
+                        "Odisha and West Bengal"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "The Sundarbans Delta, the world's largest, is shared between West Bengal and Bangladesh."
+                }
+            ],
+            "Himalayan Rivers (Brahmaputra)": [
+                {
+                    "question": "The river Brahmaputra is known by which name in Tibet?",
+                    "options": [
+                        "Dihang",
+                        "Tsangpo",
+                        "Jamuna",
+                        "Siang"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "In Tibet, the Brahmaputra is called the Tsangpo."
+                },
+                {
+                    "question": "The river Brahmaputra enters India through which state?",
+                    "options": [
+                        "Assam",
+                        "Arunachal Pradesh",
+                        "Sikkim",
+                        "West Bengal"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "The Brahmaputra enters India through Arunachal Pradesh."
+                },
+                {
+                    "question": "In Bangladesh, the Brahmaputra is known as:",
+                    "options": [
+                        "Padma",
+                        "Jamuna",
+                        "Meghna",
+                        "Surma"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "In Bangladesh, the Brahmaputra is called the Jamuna."
+                },
+                {
+                    "question": "The total length of Brahmaputra is:",
+                    "options": [
+                        "2900 km",
+                        "2880 km",
+                        "2580 km",
+                        "3000 km"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "The Brahmaputra has a total length of about 2880 km."
+                },
+                {
+                    "question": "Which is a major tributary of Brahmaputra?",
+                    "options": [
+                        "Dibang",
+                        "Subansiri",
+                        "Kameng",
+                        "All of the above"
+                    ],
+                    "correct_answer": 3,
+                    "explanation": "The Brahmaputra has many tributaries including Dibang, Subansiri, and Kameng."
+                },
+                {
+                    "question": "The Brahmaputra takes a sharp southward bend at:",
+                    "options": [
+                        "Dibrugarh",
+                        "Dhubri",
+                        "Namcha Barwa",
+                        "Guwahati"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "The Brahmaputra takes a sharp southward bend at Namcha Barwa in Tibet."
+                }
+            ],
+            "Peninsular Rivers (East Flowing)": [
+                {
+                    "question": "Which is the largest peninsular river?",
+                    "options": [
+                        "Narmada",
+                        "Godavari",
+                        "Krishna",
+                        "Cauvery"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Godavari is the largest river of the Peninsular India."
+                },
+                {
+                    "question": "The river Godavari rises from:",
+                    "options": [
+                        "Sahyadri hills",
+                        "Western Ghats near Nashik",
+                        "Amarkantak plateau",
+                        "Nilgiri hills"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Godavari originates from the Western Ghats near Nashik in Maharashtra."
+                },
+                {
+                    "question": "The total length of Godavari river is:",
+                    "options": [
+                        "1465 km",
+                        "1500 km",
+                        "1400 km",
+                        "1600 km"
+                    ],
+                    "correct_answer": 0,
+                    "explanation": "Godavari has a length of about 1465 km."
+                },
+                {
+                    "question": "Which river is known as the 'Dakshin Ganga'?",
+                    "options": [
+                        "Krishna",
+                        "Cauvery",
+                        "Godavari",
+                        "Mahanadi"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "The Godavari is called the Dakshin Ganga due to its length and large basin."
+                },
+                {
+                    "question": "The Krishna river rises from:",
+                    "options": [
+                        "Western Ghats near Mahabaleshwar",
+                        "Sahyadri hills",
+                        "Nilgiri hills",
+                        "Eastern Ghats"
+                    ],
+                    "correct_answer": 0,
+                    "explanation": "Krishna River originates near Mahabaleshwar in the Western Ghats."
+                },
+                {
+                    "question": "The total length of river Krishna is:",
+                    "options": [
+                        "1400 km",
+                        "1401 km",
+                        "1500 km",
+                        "1300 km"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Krishna River is about 1401 km long."
+                },
+                {
+                    "question": "River Cauvery rises from:",
+                    "options": [
+                        "Western Ghats",
+                        "Brahmagiri hills in Kodagu district",
+                        "Nilgiri hills",
+                        "Eastern Ghats"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Cauvery originates from the Brahmagiri hills in Karnataka."
+                },
+                {
+                    "question": "Which river forms the second largest waterfall in India?",
+                    "options": [
+                        "Godavari",
+                        "Krishna",
+                        "Cauvery",
+                        "Mahanadi"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "The Cauvery forms the Shivasamudram Falls, the second largest waterfall in India."
+                }
+            ],
+            "Peninsular Rivers (West Flowing)": [
+                {
+                    "question": "The river Narmada rises from:",
+                    "options": [
+                        "Western Ghats",
+                        "Amarkantak plateau",
+                        "Satpura range",
+                        "Vindhya range"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "The Narmada originates from the Amarkantak plateau in Madhya Pradesh."
+                },
+                {
+                    "question": "The total length of river Narmada is:",
+                    "options": [
+                        "1300 km",
+                        "1312 km",
+                        "1400 km",
+                        "1250 km"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Narmada River is about 1312 km long."
+                },
+                {
+                    "question": "River Tapi rises from:",
+                    "options": [
+                        "Amarkantak plateau",
+                        "Satpura range in Madhya Pradesh",
+                        "Western Ghats",
+                        "Mahadev hills"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Tapi River originates from the Satpura range in Madhya Pradesh."
+                },
+                {
+                    "question": "The total length of river Tapi is:",
+                    "options": [
+                        "724 km",
+                        "700 km",
+                        "750 km",
+                        "800 km"
+                    ],
+                    "correct_answer": 0,
+                    "explanation": "Tapi River is about 724 km long."
+                },
+                {
+                    "question": "Which rivers flow through rift valleys?",
+                    "options": [
+                        "Narmada and Tapi",
+                        "Godavari and Krishna",
+                        "Ganga and Yamuna",
+                        "Mahanadi and Cauvery"
+                    ],
+                    "correct_answer": 0,
+                    "explanation": "Narmada and Tapi flow through rift valleys between the Satpura and Vindhya ranges."
+                },
+                {
+                    "question": "Narmada and Tapi flow into:",
+                    "options": [
+                        "Bay of Bengal",
+                        "Arabian Sea",
+                        "Indian Ocean",
+                        "Persian Gulf"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Both Narmada and Tapi flow westward into the Arabian Sea."
+                }
+            ],
+            "Lakes": [
+                {
+                    "question": "Wular lake is located in:",
+                    "options": [
+                        "Himachal Pradesh",
+                        "Jammu and Kashmir",
+                        "Uttarakhand",
+                        "Punjab"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Wular Lake is situated in Jammu and Kashmir and is one of the largest freshwater lakes in India."
+                },
+                {
+                    "question": "Dal lake is a famous lake of:",
+                    "options": [
+                        "Himachal Pradesh",
+                        "Kashmir",
+                        "Uttarakhand",
+                        "Punjab"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Dal Lake is a well-known tourist attraction in Kashmir."
+                },
+                {
+                    "question": "Which lake is formed due to tectonic activity?",
+                    "options": [
+                        "Wular lake",
+                        "Dal lake",
+                        "Bhimtal",
+                        "All of the above"
+                    ],
+                    "correct_answer": 0,
+                    "explanation": "Wular Lake was formed due to tectonic activity."
+                },
+                {
+                    "question": "Sambhar lake is located in:",
+                    "options": [
+                        "Gujarat",
+                        "Rajasthan",
+                        "Haryana",
+                        "Punjab"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Sambhar Lake, a saltwater lake, is located in Rajasthan."
+                }
+            ]
+        }
+    }
+}
