@@ -61,406 +61,643 @@
                 }
             ]
         },
-    "Chapter 2: Socialism in Europe and the Russian Revolution": {
-        "The Age of Social Change (1815-1848)": [
-            {
-                "question": "Which revolution inspired the ideas of equality, liberty and fraternity in Europe?",
-                "options": [
-                    "Russian Revolution",
-                    "French Revolution",
-                    "Industrial Revolution",
-                    "American Revolution"
-                ],
-                "correct_answer": 1,
-                "explanation": "The French Revolution of 1789 spread the ideals of equality, liberty and fraternity across Europe, inspiring liberal and democratic movements."
-            },
-            {
-                "question": "Who were the 'Liberals' in the 19th century Europe?",
-                "options": [
-                    "Those who wanted complete democracy",
-                    "Those who wanted no change in society",
-                    "Those who wanted gradual change and constitutional government",
-                    "Those who wanted immediate revolution"
-                ],
-                "correct_answer": 2,
-                "explanation": "Liberals wanted individual rights, constitutional government, and gradual political change. They believed in representative government but not universal suffrage."
-            },
-            {
-                "question": "The Radicals believed in:",
-                "options": [
-                    "Aristocratic privileges",
-                    "Universal adult franchise",
-                    "Constitutional monarchy",
-                    "No voting rights for women"
-                ],
-                "correct_answer": 1,
-                "explanation": "Radicals wanted democratic government based on universal adult franchise. They opposed aristocratic privileges and wanted government to represent all people."
-            },
-            {
-                "question": "Conservatives in 19th century Europe were in favor of:",
-                "options": [
-                    "Rapid social changes",
-                    "Traditional institutions and gradual change",
-                    "Complete democracy",
-                    "Women's suffrage"
-                ],
-                "correct_answer": 1,
-                "explanation": "Conservatives believed in traditional institutions like monarchy, church, and gradual change rather than sudden transformation of society."
-            },
-            {
-                "question": "The Industrial Revolution led to:",
-                "options": [
-                    "Better working conditions for all",
-                    "Growth of cities and emergence of new social groups",
-                    "Decrease in population",
-                    "End of social problems"
-                ],
-                "correct_answer": 1,
-                "explanation": "Industrial Revolution led to urbanization, emergence of working class and capitalist class, creating new social divisions and problems."
-            }
-        ],
-        "The Coming of Socialism to Europe": [
-            {
-                "question": "Who wrote 'The Communist Manifesto'?",
-                "options": [
-                    "Robert Owen",
-                    "Karl Marx and Friedrich Engels",
-                    "Louis Blanc",
-                    "Pierre-Joseph Proudhon"
-                ],
-                "correct_answer": 1,
-                "explanation": "Karl Marx and Friedrich Engels wrote 'The Communist Manifesto' in 1848, which outlined the theory of class struggle and communist ideology."
-            },
-            {
-                "question": "According to socialists, the root of all social ills was:",
-                "options": [
-                    "Lack of education",
-                    "Private property",
-                    "Monarchy",
-                    "Religious differences"
-                ],
-                "correct_answer": 1,
-                "explanation": "Socialists believed private property created inequality and exploitation. They advocated for social ownership of means of production."
-            },
-            {
-                "question": "Robert Owen was associated with:",
-                "options": [
-                    "Cooperative communities",
-                    "Violent revolution",
-                    "Constitutional monarchy",
-                    "Religious reforms"
-                ],
-                "correct_answer": 0,
-                "explanation": "Robert Owen established cooperative communities like New Harmony, believing in voluntary cooperation rather than competition."
-            },
-            {
-                "question": "Louis Blanc wanted the government to:",
-                "options": [
-                    "End all social programs",
-                    "Encourage competition",
-                    "Set up cooperative workshops",
-                    "Support only the rich"
-                ],
-                "correct_answer": 2,
-                "explanation": "Louis Blanc advocated for government-supported cooperative workshops where workers would produce goods cooperatively and share profits."
-            },
-            {
-                "question": "Marx believed that industrial society was:",
-                "options": [
-                    "Perfect and just",
-                    "Capitalist society divided into workers and capitalists",
-                    "Moving towards monarchy",
-                    "Based on cooperation"
-                ],
-                "correct_answer": 1,
-                "explanation": "Marx analyzed industrial society as capitalist, where capitalists owned means of production and workers sold their labor, creating class conflict."
-            }
-        ],
-        "Russia Before 1905": [
-            {
-                "question": "Who was the ruler of Russia before the 1917 revolution?",
-                "options": [
-                    "Tsar Nicholas I",
-                    "Tsar Alexander II",
-                    "Tsar Nicholas II",
-                    "Lenin"
-                ],
-                "correct_answer": 2,
-                "explanation": "Tsar Nicholas II ruled Russia from 1894 to 1917 and was overthrown during the February Revolution of 1917."
-            },
-            {
-                "question": "The majority of Russia's population in the early 20th century were:",
-                "options": [
-                    "Industrial workers",
-                    "Nobles",
-                    "Peasants/Cultivators",
-                    "Merchants"
-                ],
-                "correct_answer": 2,
-                "explanation": "About 85% of Russia's population were peasants who lived in rural areas and worked in agriculture under poor conditions."
-            },
-            {
-                "question": "Socialists in Russia were divided into which groups?",
-                "options": [
-                    "Bolsheviks and Mensheviks",
-                    "Liberals and Conservatives",
-                    "Democrats and Republicans",
-                    "Capitalists and Workers"
-                ],
-                "correct_answer": 0,
-                "explanation": "Russian Social Democratic Party split into Bolsheviks (majority) led by Lenin and Mensheviks (minority) with different revolutionary strategies."
-            },
-            {
-                "question": "'Bloody Sunday' in Russian history refers to:",
-                "options": [
-                    "A religious festival",
-                    "The massacre of peaceful protesters in 1905",
-                    "The day the Tsar was killed",
-                    "Start of World War I"
-                ],
-                "correct_answer": 1,
-                "explanation": "Bloody Sunday (January 9, 1905) was when peaceful protesters led by Father Gapon were fired upon by troops, sparking the 1905 Revolution."
-            },
-            {
-                "question": "The 1905 Revolution in Russia was triggered by:",
-                "options": [
-                    "Economic prosperity",
-                    "Russia's defeat in war with Japan",
-                    "Success in World War I",
-                    "Good harvests"
-                ],
-                "correct_answer": 1,
-                "explanation": "Russia's humiliating defeat in the Russo-Japanese War (1904-05) exposed the regime's weakness and triggered widespread unrest."
-            }
-        ],
-        "The 1917 Russian Revolution": [
-            {
-                "question": "The February Revolution of 1917 led to:",
-                "options": [
-                    "Establishment of Communist rule",
-                    "Abdication of Tsar Nicholas II",
-                    "End of World War I",
-                    "Industrial growth"
-                ],
-                "correct_answer": 1,
-                "explanation": "The February Revolution forced Tsar Nicholas II to abdicate, ending over 300 years of Romanov rule and establishing the Provisional Government."
-            },
-            {
-                "question": "Who led the Bolsheviks during the Russian Revolution?",
-                "options": [
-                    "Tsar Nicholas II",
-                    "Alexander Kerensky",
-                    "Vladimir Lenin",
-                    "Joseph Stalin"
-                ],
-                "correct_answer": 2,
-                "explanation": "Vladimir Lenin led the Bolsheviks to victory in the October Revolution and became the first leader of Soviet Russia."
-            },
-            {
-                "question": "Lenin's famous slogan was:",
-                "options": [
-                    "Workers of the world, unite!",
-                    "Peace, Land and Bread",
-                    "Liberty, Equality, Fraternity",
-                    "God, Tsar and Fatherland"
-                ],
-                "correct_answer": 1,
-                "explanation": "Lenin's slogan 'Peace, Land and Bread' promised to end war, redistribute land to peasants, and solve food shortages."
-            },
-            {
-                "question": "The October Revolution of 1917 was led by:",
-                "options": [
-                    "Mensheviks",
-                    "Bolsheviks",
-                    "Social Revolutionaries",
-                    "Constitutional Democrats"
-                ],
-                "correct_answer": 1,
-                "explanation": "The Bolsheviks, led by Lenin, overthrew the Provisional Government in October 1917 and established communist rule."
-            },
-            {
-                "question": "Which palace was stormed during the October Revolution?",
-                "options": [
-                    "Summer Palace",
-                    "Winter Palace",
-                    "Catherine Palace",
-                    "Kremlin"
-                ],
-                "correct_answer": 1,
-                "explanation": "The Winter Palace in Petrograd (St. Petersburg) was stormed by Bolsheviks, leading to the arrest of the Provisional Government."
-            }
-        ],
-        "Russian Revolution and Its Consequences": [
-            {
-                "question": "After the October Revolution, Russia withdrew from:",
-                "options": [
-                    "League of Nations",
-                    "World War I",
-                    "United Nations",
-                    "Industrial Revolution"
-                ],
-                "correct_answer": 1,
-                "explanation": "The Bolsheviks signed the Treaty of Brest-Litovsk in March 1918, withdrawing Russia from World War I as promised."
-            },
-            {
-                "question": "The Russian Civil War was fought between:",
-                "options": [
-                    "Reds (Bolsheviks) and Whites (pro-Tsarists)",
-                    "Workers and Peasants",
-                    "Russia and Germany",
-                    "Lenin and Stalin"
-                ],
-                "correct_answer": 0,
-                "explanation": "The Civil War (1918-1921) was between the Red Army (Bolsheviks) and White Army (supporters of Tsar and opponents of Bolsheviks)."
-            },
-            {
-                "question": "What was the Cheka?",
-                "options": [
-                    "A political party",
-                    "Secret police created by Bolsheviks",
-                    "A type of government",
-                    "An economic policy"
-                ],
-                "correct_answer": 1,
-                "explanation": "Cheka was the secret police established by Lenin in 1917 to suppress opposition and maintain Bolshevik control."
-            },
-            {
-                "question": "Collectivization in Soviet Russia meant:",
-                "options": [
-                    "Individual farming",
-                    "Private ownership of land",
-                    "Collective farming under government control",
-                    "Foreign investment in agriculture"
-                ],
-                "correct_answer": 2,
-                "explanation": "Collectivization forced peasants to work on collective farms (kolkhoz) controlled by the state, ending private farming."
-            },
-            {
-                "question": "Stalin's policy of rapid industrialization was known as:",
-                "options": [
-                    "New Economic Policy",
-                    "Five Year Plans",
-                    "War Communism",
-                    "Collective Leadership"
-                ],
-                "correct_answer": 1,
-                "explanation": "Stalin introduced Five Year Plans starting in 1928 to rapidly industrialize the Soviet Union through centralized planning."
-            }
-        ],
-        "Socialism in Europe - Key Concepts": [
-            {
-                "question": "The Communist International was formed to:",
-                "options": [
-                    "End socialism",
-                    "Support capitalism",
-                    "Coordinate communist parties worldwide",
-                    "Start World War II"
-                ],
-                "correct_answer": 2,
-                "explanation": "The Communist International, established in 1919, aimed to coordinate communist parties globally and spread world revolution."
-            },
-            {
-                "question": "Which country became the world's first socialist state?",
-                "options": [
-                    "Germany",
-                    "France",
-                    "Soviet Union (Russia)",
-                    "China"
-                ],
-                "correct_answer": 2,
-                "explanation": "Soviet Russia became the first socialist state after the Bolshevik victory in 1917, inspiring communist movements worldwide."
-            },
-            {
-                "question": "The New Economic Policy (NEP) in Soviet Russia allowed:",
-                "options": [
-                    "Complete socialism",
-                    "Some private trade and private ownership of small industries",
-                    "Return of the Tsar",
-                    "Foreign rule"
-                ],
-                "correct_answer": 1,
-                "explanation": "NEP (1921-1928) introduced by Lenin allowed limited private trade and small-scale private enterprise to revive the economy."
-            },
-            {
-                "question": "Kulaks in Soviet Russia were:",
-                "options": [
-                    "Industrial workers",
-                    "Well-to-do peasants",
-                    "Government officials",
-                    "Military officers"
-                ],
-                "correct_answer": 1,
-                "explanation": "Kulaks were prosperous peasants who owned land and hired laborers. Stalin eliminated them during collectivization."
-            },
-            {
-                "question": "The main idea of socialism is:",
-                "options": [
-                    "Individual competition",
-                    "Private ownership",
-                    "Social ownership and economic equality",
-                    "Religious unity"
-                ],
-                "correct_answer": 2,
-                "explanation": "Socialism advocates social ownership of means of production and equal distribution of resources to eliminate class differences."
-            }
-        ],
-        "High-Level Analysis Questions": [
-            {
-                "question": "Which factor was NOT responsible for the 1917 Russian Revolution?",
-                "options": [
-                    "Military defeats in World War I",
-                    "Economic hardships",
-                    "Tsar's autocratic rule",
-                    "Success in industrialization"
-                ],
-                "correct_answer": 3,
-                "explanation": "Russia's industrial backwardness, not success, contributed to revolution. Military defeats, economic crisis, and autocracy were key causes."
-            },
-            {
-                "question": "The Provisional Government in Russia (1917) failed because:",
-                "options": [
-                    "It continued Russia's participation in World War I",
-                    "It was very popular",
-                    "It solved all economic problems",
-                    "Lenin supported it"
-                ],
-                "correct_answer": 0,
-                "explanation": "The Provisional Government's decision to continue the unpopular war despite public demand for peace led to its downfall."
-            },
-            {
-                "question": "Marx predicted that socialist revolution would first occur in:",
-                "options": [
-                    "Agricultural countries like Russia",
-                    "Industrially advanced countries like Germany",
-                    "Colonial countries",
-                    "Small countries"
-                ],
-                "correct_answer": 1,
-                "explanation": "Marx believed socialist revolution would occur in industrially advanced countries where class consciousness of workers was highest."
-            },
-            {
-                "question": "The term 'proletariat' refers to:",
-                "options": [
-                    "The capitalist class",
-                    "The working class",
-                    "The peasant class",
-                    "The noble class"
-                ],
-                "correct_answer": 1,
-                "explanation": "Proletariat refers to the working class who sell their labor to capitalists and own no means of production according to Marx."
-            },
-            {
-                "question": "Socialism differed from capitalism in:",
-                "options": [
-                    "Encouraging private property",
-                    "Promoting individual competition",
-                    "Advocating social ownership of means of production",
-                    "Supporting monarchy"
-                ],
-                "correct_answer": 2,
-                "explanation": "Unlike capitalism's private ownership and competition, socialism advocates collective ownership and cooperation for social welfare."
-            }
-        ]
-    }
+        "Socialism in Europe and the Russian Revolution": {
+            "The Age of Social Change": [
+                {
+                    "question": "Who wrote 'The Communist Manifesto'?",
+                    "options": [
+                        "Vladimir Lenin",
+                        "Karl Marx and Friedrich Engels",
+                        "Robert Owen",
+                        "Louis Blanc"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Karl Marx and Friedrich Engels co-authored 'The Communist Manifesto' in 1848, which outlined the principles of communism and class struggle."
+                },
+                {
+                    "question": "Which of the following was NOT a feature of the socialist ideology?",
+                    "options": [
+                        "Common ownership of property",
+                        "Control of the means of production by workers",
+                        "Individual ownership of all property",
+                        "Equal distribution of wealth"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "Socialism advocates for collective ownership rather than individual ownership of all property. Individual ownership of all property is a capitalist principle."
+                },
+                {
+                    "question": "The term 'socialism' was first used in which context?",
+                    "options": [
+                        "Industrial Revolution",
+                        "French Revolution",
+                        "Russian Revolution",
+                        "During discussions about cooperative societies"
+                    ],
+                    "correct_answer": 3,
+                    "explanation": "The term 'socialism' was first used around 1830s during discussions about cooperative societies and collective ownership."
+                },
+                {
+                    "question": "Robert Owen was known for:",
+                    "options": [
+                        "Leading the Russian Revolution",
+                        "Creating cooperative communities",
+                        "Writing Das Kapital",
+                        "Founding the Socialist Party"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Robert Owen was a Welsh social reformer who created cooperative communities and pioneered the cooperative movement in the early 19th century."
+                },
+                {
+                    "question": "Which philosopher believed that workers should control the means of production?",
+                    "options": [
+                        "Adam Smith",
+                        "Karl Marx",
+                        "John Stuart Mill",
+                        "Max Weber"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Karl Marx argued that workers should control the means of production to eliminate exploitation and create a classless society."
+                },
+                {
+                    "question": "The idea of a classless society was promoted by:",
+                    "options": [
+                        "Capitalists",
+                        "Monarchists",
+                        "Socialists",
+                        "Feudal lords"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "Socialists promoted the idea of a classless society where there would be no distinction between rich and poor, and all would be equal."
+                }
+            ],
+            "The Russian Empire in 1914": [
+                {
+                    "question": "Who was the Tsar of Russia in 1914?",
+                    "options": [
+                        "Nicholas I",
+                        "Alexander II",
+                        "Nicholas II",
+                        "Alexander III"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "Nicholas II was the Tsar of Russia from 1894 until his abdication in 1917 during the February Revolution."
+                },
+                {
+                    "question": "The majority of Russia's population in 1914 consisted of:",
+                    "options": [
+                        "Industrial workers",
+                        "Peasants",
+                        "Nobles",
+                        "Merchants"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "About 85% of Russia's population in 1914 were peasants who lived in rural areas and worked in agriculture."
+                },
+                {
+                    "question": "Which of the following was a characteristic of Russian society before 1917?",
+                    "options": [
+                        "Democratic government",
+                        "Industrial development",
+                        "Autocratic rule",
+                        "Religious freedom"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "Russia was ruled by an autocratic Tsar who had absolute power and there was no democratic participation in government."
+                },
+                {
+                    "question": "The Russian Orthodox Church was:",
+                    "options": [
+                        "Independent of the state",
+                        "Opposed to the Tsar",
+                        "Closely connected to the autocracy",
+                        "Supporting the peasants"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "The Russian Orthodox Church was closely tied to the state and supported the Tsar's autocratic rule, serving as a pillar of the regime."
+                },
+                {
+                    "question": "In Russia, peasants were organized into communities called:",
+                    "options": [
+                        "Dumas",
+                        "Mir",
+                        "Zemstvos",
+                        "Soviets"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Mir was the traditional peasant commune in Russia where land was collectively owned and periodically redistributed among families."
+                },
+                {
+                    "question": "What was the condition of Russian workers in factories before 1917?",
+                    "options": [
+                        "They had good working conditions",
+                        "They worked for reasonable hours with good pay",
+                        "They faced poor working conditions and low wages",
+                        "They owned shares in the factories"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "Russian factory workers faced extremely poor working conditions, long hours (often 11-12 hours), low wages, and lived in overcrowded housing."
+                }
+            ],
+            "Economy and Society": [
+                {
+                    "question": "The majority of Russian industry was owned by:",
+                    "options": [
+                        "Russian capitalists",
+                        "Foreign investors",
+                        "The government",
+                        "Worker cooperatives"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Much of Russian industry was financed and owned by foreign investors, particularly French and Belgian capital, making Russia economically dependent."
+                },
+                {
+                    "question": "Which of the following best describes Russian agriculture before 1917?",
+                    "options": [
+                        "Highly mechanized and efficient",
+                        "Based on large plantations",
+                        "Backward with old techniques",
+                        "Completely collectivized"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "Russian agriculture was backward, using primitive techniques and tools, with low productivity compared to Western European countries."
+                },
+                {
+                    "question": "The Stolypin land reforms were aimed at:",
+                    "options": [
+                        "Redistributing land to all peasants equally",
+                        "Creating kulaks (rich peasants)",
+                        "Collectivizing agriculture",
+                        "Abolishing private property"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Stolypin's reforms aimed to create a class of wealthy peasant proprietors (kulaks) who would support the Tsar and improve agricultural efficiency."
+                },
+                {
+                    "question": "Russian workers were concentrated mainly in:",
+                    "options": [
+                        "Small towns",
+                        "Agricultural areas",
+                        "St. Petersburg and Moscow",
+                        "Siberian regions"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "Industrial workers were mainly concentrated in the two major cities - St. Petersburg and Moscow - where most factories were located."
+                },
+                {
+                    "question": "The term 'kulaks' referred to:",
+                    "options": [
+                        "Poor peasants",
+                        "Rich peasants",
+                        "Industrial workers",
+                        "Government officials"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Kulaks were wealthy peasants who owned larger farms, employed other peasants, and were generally more prosperous than average farmers."
+                }
+            ],
+            "Socialism in Russia": [
+                {
+                    "question": "The Russian Social Democratic Workers Party was founded in:",
+                    "options": [
+                        "1898",
+                        "1903",
+                        "1905",
+                        "1917"
+                    ],
+                    "correct_answer": 0,
+                    "explanation": "The Russian Social Democratic Workers Party was founded in 1898, representing the Marxist movement in Russia."
+                },
+                {
+                    "question": "The Social Democratic Party split into which two groups?",
+                    "options": [
+                        "Reds and Whites",
+                        "Bolsheviks and Mensheviks",
+                        "Socialists and Communists",
+                        "Workers and Peasants"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "In 1903, the Russian Social Democratic Workers Party split into Bolsheviks (majority) and Mensheviks (minority) over organizational issues."
+                },
+                {
+                    "question": "'Bolshevik' means:",
+                    "options": [
+                        "Minority",
+                        "Majority",
+                        "Revolutionary",
+                        "Moderate"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Bolshevik means 'majority' in Russian, though ironically they were often the minority faction in the party."
+                },
+                {
+                    "question": "Who led the Bolshevik party?",
+                    "options": [
+                        "Julius Martov",
+                        "Vladimir Lenin",
+                        "Leon Trotsky",
+                        "Joseph Stalin"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Vladimir Lenin was the leader of the Bolshevik faction and later led the October Revolution of 1917."
+                },
+                {
+                    "question": "The Socialist Revolutionary Party mainly represented:",
+                    "options": [
+                        "Industrial workers",
+                        "Peasants",
+                        "Middle class",
+                        "Nobles"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "The Socialist Revolutionary Party primarily represented the interests of peasants and advocated for land redistribution."
+                },
+                {
+                    "question": "What did Lenin's 'April Theses' call for?",
+                    "options": [
+                        "Support for the Provisional Government",
+                        "Participation in World War I",
+                        "Transfer of power to the Soviets",
+                        "Gradual reforms"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "Lenin's April Theses called for 'All Power to the Soviets', opposing the Provisional Government and demanding immediate socialist revolution."
+                }
+            ],
+            "The 1905 Revolution": [
+                {
+                    "question": "The 1905 Revolution began with:",
+                    "options": [
+                        "Bloody Sunday",
+                        "The Decembrist revolt",
+                        "Mutiny in the army",
+                        "Strike by factory workers"
+                    ],
+                    "correct_answer": 0,
+                    "explanation": "The 1905 Revolution began with Bloody Sunday on January 9, 1905, when peaceful protesters were fired upon by troops."
+                },
+                {
+                    "question": "Father Gapon led a procession to:",
+                    "options": [
+                        "The Winter Palace",
+                        "The Kremlin",
+                        "The Duma",
+                        "Red Square"
+                    ],
+                    "correct_answer": 0,
+                    "explanation": "Father Gapon led a peaceful procession of workers to the Winter Palace to present a petition to Tsar Nicholas II."
+                },
+                {
+                    "question": "What was the immediate cause of Bloody Sunday?",
+                    "options": [
+                        "Land reforms",
+                        "Workers' petition to the Tsar",
+                        "Military defeat",
+                        "Economic crisis"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Bloody Sunday occurred when workers, led by Father Gapon, marched to present a petition to the Tsar asking for better working conditions and political reforms."
+                },
+                {
+                    "question": "As a result of the 1905 Revolution, Tsar Nicholas II:",
+                    "options": [
+                        "Abdicated the throne",
+                        "Created the Duma (parliament)",
+                        "Abolished serfdom",
+                        "Started land reforms"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Under pressure from the 1905 Revolution, Tsar Nicholas II issued the October Manifesto promising a constitution and created the Duma (parliament)."
+                },
+                {
+                    "question": "The first Russian Parliament was called:",
+                    "options": [
+                        "Soviet",
+                        "Mir",
+                        "Duma",
+                        "Zemstvo"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "The Duma was Russia's first elected parliament, established after the 1905 Revolution as a concession to popular demands."
+                }
+            ],
+            "The First World War and the Russian Empire": [
+                {
+                    "question": "Russia entered the First World War in:",
+                    "options": [
+                        "1914",
+                        "1915",
+                        "1916",
+                        "1917"
+                    ],
+                    "correct_answer": 0,
+                    "explanation": "Russia entered World War I in 1914 as part of the Triple Entente, supporting Serbia against Austria-Hungary."
+                },
+                {
+                    "question": "During WWI, the Russian army suffered defeats against:",
+                    "options": [
+                        "France and Britain",
+                        "Germany and Austria",
+                        "Turkey and Bulgaria",
+                        "Japan and China"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Russian forces suffered major defeats against Germany and Austria-Hungary, losing battles like Tannenberg and Masurian Lakes."
+                },
+                {
+                    "question": "What was the impact of WWI on Russian economy?",
+                    "options": [
+                        "Industrial growth",
+                        "Economic prosperity",
+                        "Severe economic crisis",
+                        "Increased trade"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "WWI caused severe economic crisis in Russia with inflation, food shortages, and collapse of industrial production."
+                },
+                {
+                    "question": "During WWI, the Tsar left for the front, leaving the capital under:",
+                    "options": [
+                        "His brother",
+                        "The Prime Minister",
+                        "Tsarina Alexandra",
+                        "The Duma"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "Tsar Nicholas II left for the war front in 1915, leaving Tsarina Alexandra in charge of the government in Petrograd."
+                },
+                {
+                    "question": "Rasputin was:",
+                    "options": [
+                        "A military general",
+                        "A government minister",
+                        "A monk who influenced the Tsarina",
+                        "A revolutionary leader"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "Rasputin was a mystical monk who gained enormous influence over Tsarina Alexandra, especially regarding her hemophiliac son's treatment."
+                },
+                {
+                    "question": "By 1916, what was the condition of Russian soldiers?",
+                    "options": [
+                        "Well-equipped and motivated",
+                        "Poorly equipped and unwilling to fight",
+                        "Highly trained and disciplined",
+                        "Supported by advanced technology"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "By 1916, Russian soldiers were poorly equipped, suffered from low morale, and many were unwilling to continue fighting."
+                }
+            ],
+            "The February Revolution of 1917": [
+                {
+                    "question": "The February Revolution of 1917 began in:",
+                    "options": [
+                        "Moscow",
+                        "St. Petersburg (Petrograd)",
+                        "Kiev",
+                        "Odessa"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "The February Revolution began in Petrograd (St. Petersburg) with strikes and demonstrations that eventually led to the Tsar's abdication."
+                },
+                {
+                    "question": "Who abdicated the throne during the February Revolution?",
+                    "options": [
+                        "Tsar Nicholas I",
+                        "Tsar Alexander III",
+                        "Tsar Nicholas II",
+                        "Tsar Alexander II"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "Tsar Nicholas II abdicated the throne on March 2, 1917 (February 15 according to Russian calendar), ending centuries of Romanov rule."
+                },
+                {
+                    "question": "After the February Revolution, Russia was ruled by:",
+                    "options": [
+                        "The Bolsheviks",
+                        "The Provisional Government",
+                        "The Duma",
+                        "Military generals"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "After the February Revolution, the Provisional Government took power, initially led by Prince Lvov and later by Alexander Kerensky."
+                },
+                {
+                    "question": "The Provisional Government was led by:",
+                    "options": [
+                        "Alexander Kerensky",
+                        "Vladimir Lenin",
+                        "Leon Trotsky",
+                        "Prince Lvov"
+                    ],
+                    "correct_answer": 0,
+                    "explanation": "Alexander Kerensky became the key leader of the Provisional Government, especially after July 1917, though Prince Lvov initially headed it."
+                },
+                {
+                    "question": "What major decision of the Provisional Government made it unpopular?",
+                    "options": [
+                        "Land reforms",
+                        "Continuing the war",
+                        "Dissolving the Duma",
+                        "Suppressing workers"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "The Provisional Government's decision to continue Russia's participation in World War I made it extremely unpopular among war-weary people."
+                },
+                {
+                    "question": "'Dual power' in 1917 referred to:",
+                    "options": [
+                        "Two Tsars ruling together",
+                        "Provisional Government and Petrograd Soviet",
+                        "Bolsheviks and Mensheviks",
+                        "Army and Navy"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Dual power referred to the coexistence of the Provisional Government and the Petrograd Soviet, both claiming authority after February 1917."
+                }
+            ],
+            "The October Revolution of 1917": [
+                {
+                    "question": "The October Revolution took place on:",
+                    "options": [
+                        "October 25, 1917 (Russian calendar)",
+                        "October 15, 1917",
+                        "November 7, 1917 (Gregorian calendar)",
+                        "Both October 25, 1917 (Russian calendar) and November 7, 1917 (Gregorian calendar)"
+                    ],
+                    "correct_answer": 3,
+                    "explanation": "The October Revolution occurred on October 25, 1917 according to the Russian calendar, which corresponds to November 7, 1917 in the Gregorian calendar."
+                },
+                {
+                    "question": "The slogan 'Peace, Land and Bread' was given by:",
+                    "options": [
+                        "The Provisional Government",
+                        "Lenin and the Bolsheviks",
+                        "The Mensheviks",
+                        "The Socialist Revolutionary Party"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Lenin and the Bolsheviks used the slogan 'Peace, Land and Bread' to appeal to war-weary soldiers, land-hungry peasants, and starving workers."
+                },
+                {
+                    "question": "The Winter Palace was the headquarters of:",
+                    "options": [
+                        "The Tsar",
+                        "The Provisional Government",
+                        "The Bolsheviks",
+                        "The Duma"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "During 1917, the Winter Palace served as the headquarters of the Provisional Government, which the Bolsheviks captured during the October Revolution."
+                },
+                {
+                    "question": "Who led the Bolshevik uprising in October 1917?",
+                    "options": [
+                        "Lenin",
+                        "Trotsky",
+                        "Stalin",
+                        "Kerensky"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Leon Trotsky, as chairman of the Petrograd Soviet, organized and led the military aspects of the October Revolution, though Lenin provided political leadership."
+                },
+                {
+                    "question": "The October Revolution was also known as:",
+                    "options": [
+                        "The Great October Socialist Revolution",
+                        "The Bolshevik Revolution",
+                        "Both The Great October Socialist Revolution and The Bolshevik Revolution",
+                        "The People's Revolution"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "The October Revolution is known by both names - the Great October Socialist Revolution (official Soviet term) and the Bolshevik Revolution."
+                },
+                {
+                    "question": "After the October Revolution, the Bolsheviks:",
+                    "options": [
+                        "Shared power with other parties",
+                        "Established a one-party rule",
+                        "Restored the monarchy",
+                        "Created a democratic government"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "The Bolsheviks established a one-party communist state, gradually eliminating other political parties and consolidating their power."
+                }
+            ],
+            "What Changed After October": [
+                {
+                    "question": "Lenin's government was called:",
+                    "options": [
+                        "The Provisional Government",
+                        "The Council of People's Commissars",
+                        "The Revolutionary Committee",
+                        "The Workers' Government"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Lenin established the Council of People's Commissars (Sovnarkom) as the new government, with himself as chairman."
+                },
+                {
+                    "question": "The Bolsheviks became the:",
+                    "options": [
+                        "Social Democratic Party",
+                        "Communist Party",
+                        "Workers' Party",
+                        "Revolutionary Party"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "In 1918, the Bolsheviks renamed themselves the Communist Party to distinguish from other socialist parties."
+                },
+                {
+                    "question": "What happened to the Constituent Assembly?",
+                    "options": [
+                        "It was expanded",
+                        "It was dissolved by the Bolsheviks",
+                        "It became more powerful",
+                        "It was renamed"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "The Bolsheviks dissolved the Constituent Assembly in January 1918 after it refused to approve their policies, ending Russia's brief democratic experiment."
+                },
+                {
+                    "question": "The secret police created by Lenin was called:",
+                    "options": [
+                        "KGB",
+                        "Cheka",
+                        "NKVD",
+                        "GPU"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "The Cheka was the first Soviet secret police organization, established in December 1917 to suppress counter-revolution and maintain Bolshevik power."
+                },
+                {
+                    "question": "In March 1918, the Bolsheviks signed a peace treaty with Germany called:",
+                    "options": [
+                        "Treaty of Versailles",
+                        "Treaty of Brest-Litovsk",
+                        "Treaty of Moscow",
+                        "Treaty of Petrograd"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "The Treaty of Brest-Litovsk was signed in March 1918, taking Russia out of World War I but at great territorial cost."
+                },
+                {
+                    "question": "The Russian Civil War was fought between:",
+                    "options": [
+                        "Reds and Whites",
+                        "Bolsheviks and Mensheviks",
+                        "Workers and Peasants",
+                        "Russians and Germans"
+                    ],
+                    "correct_answer": 0,
+                    "explanation": "The Russian Civil War (1918-1921) was fought between the Reds (Bolsheviks) and the Whites (anti-Bolshevik forces)."
+                }
+            ],
+            "The Global Impact of the Russian Revolution": [
+                {
+                    "question": "Which countries provided support to the Whites during the Civil War?",
+                    "options": [
+                        "Germany and Austria",
+                        "Britain, France, and USA",
+                        "China and Japan",
+                        "Turkey and Bulgaria"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Britain, France, and the USA provided military and financial support to the White forces during the Russian Civil War to oppose Bolshevik rule."
+                },
+                {
+                    "question": "The Russian Revolution inspired socialist movements in:",
+                    "options": [
+                        "Only European countries",
+                        "Only Asian countries",
+                        "Countries across the world",
+                        "Only neighboring countries"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "The Russian Revolution inspired socialist and communist movements worldwide, including in Asia, Europe, Latin America, and Africa."
+                },
+                {
+                    "question": "What was the international reaction to the Russian Revolution?",
+                    "options": [
+                        "Universal acceptance",
+                        "Fear among capitalist nations",
+                        "Immediate recognition by all countries",
+                        "Complete isolation of Russia"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Capitalist nations feared the spread of communist ideas and initially refused to recognize the Soviet government, leading to diplomatic isolation."
+                },
+                {
+                    "question": "The Russian Revolution led to the spread of:",
+                    "options": [
+                        "Capitalist ideas",
+                        "Democratic ideals",
+                        "Socialist and communist ideas",
+                        "Monarchist movements"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "The success of the Russian Revolution inspired the global spread of socialist and communist ideas, leading to similar movements in many countries."
+                }
+            ]
+        }
     }
 }
