@@ -1,0 +1,39 @@
+{
+    "Subject": {
+        "Chapter Name": {
+            "Topic Name": [
+                {
+                    "question": "Write the question here?",
+                    "options": [
+                        "Option A",
+                        "Option B",
+                        "Option C",
+                        "Option D"
+                    ],
+                    "correct_answer": 0,
+                    "explanation": "Write a clear, brief explanation of why this answer is correct."
+                }
+            ]
+        }
+    }
+}
+
+/* for chapter only */
+
+{
+    "Chapter Name": {
+        "Topic Name": [
+            {
+                "question": "Write the question here?",
+                "options": [
+                    "Option A",
+                    "Option B",
+                    "Option C",
+                    "Option D"
+                ],
+                "correct_answer": 0,
+                "explanation": "Write a clear, brief explanation of why this answer is correct."
+            }
+        ]
+    }
+}
