@@ -61,31 +61,511 @@
                 }
             ]
         },
-        "Chapter 2: People as Resource": {
-            "Human Capital Formation": [
-                {
-                    "question": "What does human capital refer to?",
-                    "options": [
-                        "Number of people",
-                        "Skills and knowledge of people",
-                        "Physical strength",
-                        "Population growth"
-                    ],
-                    "correct_answer": 1,
-                    "explanation": "Human capital refers to the skills, knowledge, and experience possessed by people that make them economically productive."
-                },
-                {
-                    "question": "Which is the most important investment in human capital?",
-                    "options": [
-                        "Health",
-                        "Education",
-                        "Training",
-                        "All of the above"
-                    ],
-                    "correct_answer": 3,
-                    "explanation": "Education, health, and training are all crucial investments in human capital formation as they enhance people's skills and productivity."
-                }
-            ]
-        }
+    "Chapter 2: People as Resource": {
+        "Introduction to People as Resource": [
+            {
+                "question": "What does 'People as Resource' refer to?",
+                "options": [
+                    "Total population of a country",
+                    "Working population in terms of their productive skills and abilities",
+                    "Number of educated people in a country",
+                    "Unemployed population of a country"
+                ],
+                "correct_answer": 1,
+                "explanation": "People as Resource refers to the working population in terms of their productive skills and abilities. It emphasizes the contribution of people to economic development through their knowledge and skills."
+            },
+            {
+                "question": "Which of the following best describes human capital?",
+                "options": [
+                    "Money invested in people",
+                    "Number of people in a country",
+                    "Stock of skill and productive knowledge embodied in people",
+                    "Government expenditure on people"
+                ],
+                "correct_answer": 2,
+                "explanation": "Human capital refers to the stock of skill and productive knowledge embodied in people. It includes education, training, experience, and health that enhance a person's productivity."
+            },
+            {
+                "question": "When does population become human capital?",
+                "options": [
+                    "When population increases",
+                    "When investment is made in education, training and medical care",
+                    "When people migrate to cities",
+                    "When people get jobs"
+                ],
+                "correct_answer": 1,
+                "explanation": "Population becomes human capital when investment is made in education, training, and medical care. These investments enhance the skills and productivity of people."
+            }
+        ],
+        "Economic Activities by Sectors": [
+            {
+                "question": "Which sector is known as the most labour-absorbing sector of the Indian economy?",
+                "options": [
+                    "Primary sector",
+                    "Secondary sector",
+                    "Tertiary sector",
+                    "Quaternary sector"
+                ],
+                "correct_answer": 0,
+                "explanation": "The primary sector (agriculture, forestry, fishing, mining) is the most labour-absorbing sector in the Indian economy, employing about 50% of the workforce."
+            },
+            {
+                "question": "Which of the following activities is included in the primary sector?",
+                "options": [
+                    "Banking",
+                    "Manufacturing",
+                    "Agriculture",
+                    "Software development"
+                ],
+                "correct_answer": 2,
+                "explanation": "Agriculture is a primary sector activity as it involves direct extraction or production from natural resources."
+            },
+            {
+                "question": "Manufacturing industries belong to which sector?",
+                "options": [
+                    "Primary sector",
+                    "Secondary sector",
+                    "Tertiary sector",
+                    "Service sector"
+                ],
+                "correct_answer": 1,
+                "explanation": "Manufacturing industries belong to the secondary sector as they process raw materials from primary sector into finished goods."
+            },
+            {
+                "question": "Which of the following is an example of tertiary sector activity?",
+                "options": [
+                    "Farming",
+                    "Mining",
+                    "Teaching",
+                    "Steel production"
+                ],
+                "correct_answer": 2,
+                "explanation": "Teaching is a tertiary sector activity as it provides services rather than producing goods."
+            },
+            {
+                "question": "The service sector is also known as:",
+                "options": [
+                    "Primary sector",
+                    "Secondary sector",
+                    "Tertiary sector",
+                    "Agricultural sector"
+                ],
+                "correct_answer": 2,
+                "explanation": "The service sector is also known as the tertiary sector as it provides various services to people and other sectors."
+            }
+        ],
+        "Quality of Population": [
+            {
+                "question": "The quality of population depends upon:",
+                "options": [
+                    "Birth rate and death rate",
+                    "Literacy rate, health of a person and skill formation",
+                    "Population density",
+                    "Population growth rate"
+                ],
+                "correct_answer": 1,
+                "explanation": "Quality of population depends on literacy rate, health status, and skill formation. These factors determine how productive the population can be."
+            },
+            {
+                "question": "Which of the following is NOT a factor determining quality of population?",
+                "options": [
+                    "Education",
+                    "Health",
+                    "Population size",
+                    "Skill development"
+                ],
+                "correct_answer": 2,
+                "explanation": "Population size is not a factor determining quality of population. Quality depends on education, health, and skills, not the number of people."
+            },
+            {
+                "question": "Education contributes to human capital formation by:",
+                "options": [
+                    "Increasing population",
+                    "Making people productive and providing knowledge and skills",
+                    "Reducing birth rate",
+                    "Increasing government expenditure"
+                ],
+                "correct_answer": 1,
+                "explanation": "Education contributes to human capital formation by making people more productive and providing them with knowledge and skills necessary for economic development."
+            }
+        ],
+        "Education and Human Capital Formation": [
+            {
+                "question": "The education system in India is divided into how many levels?",
+                "options": [
+                    "Two levels",
+                    "Three levels",
+                    "Four levels",
+                    "Five levels"
+                ],
+                "correct_answer": 1,
+                "explanation": "The education system in India is divided into three levels: Elementary (Classes I-VIII), Secondary (Classes IX-XII), and Higher Education."
+            },
+            {
+                "question": "Elementary education includes:",
+                "options": [
+                    "Classes I to VIII",
+                    "Classes I to V",
+                    "Classes VI to VIII",
+                    "Classes IX to XII"
+                ],
+                "correct_answer": 0,
+                "explanation": "Elementary education in India includes Classes I to VIII, covering primary (I-V) and upper primary (VI-VIII) education."
+            },
+            {
+                "question": "Which Constitutional Amendment made education a fundamental right?",
+                "options": [
+                    "84th Amendment",
+                    "86th Amendment",
+                    "88th Amendment",
+                    "90th Amendment"
+                ],
+                "correct_answer": 1,
+                "explanation": "The 86th Constitutional Amendment Act, 2002 made education a fundamental right for children aged 6-14 years."
+            },
+            {
+                "question": "Sarva Shiksha Abhiyan is related to:",
+                "options": [
+                    "Adult education",
+                    "Elementary education",
+                    "Higher education",
+                    "Technical education"
+                ],
+                "correct_answer": 1,
+                "explanation": "Sarva Shiksha Abhiyan is a government program aimed at providing elementary education to all children aged 6-14 years."
+            },
+            {
+                "question": "Mid-day meal scheme is aimed at:",
+                "options": [
+                    "Improving enrollment and retention in schools",
+                    "Providing employment",
+                    "Reducing population growth",
+                    "Improving health facilities"
+                ],
+                "correct_answer": 0,
+                "explanation": "The Mid-day Meal Scheme aims to improve enrollment, retention, and attendance in schools while addressing classroom hunger."
+            }
+        ],
+        "Health and Human Capital": [
+            {
+                "question": "A healthy person can contribute to economic development by:",
+                "options": [
+                    "Consuming more resources",
+                    "Being more productive and efficient",
+                    "Increasing population",
+                    "Reducing government expenditure"
+                ],
+                "correct_answer": 1,
+                "explanation": "A healthy person can work more efficiently, think better, and be more productive, thereby contributing more to economic development."
+            },
+            {
+                "question": "Which of the following is a major health problem in India?",
+                "options": [
+                    "High literacy rate",
+                    "Lack of clean drinking water and sanitation",
+                    "High per capita income",
+                    "Surplus food production"
+                ],
+                "correct_answer": 1,
+                "explanation": "Lack of clean drinking water and sanitation is a major health problem in India, leading to various water-borne diseases."
+            },
+            {
+                "question": "The National Health Policy was first formulated in India in:",
+                "options": [
+                    "1980",
+                    "1983",
+                    "1985",
+                    "1990"
+                ],
+                "correct_answer": 1,
+                "explanation": "The first National Health Policy was formulated in India in 1983 to provide healthcare to all by 2000 AD."
+            },
+            {
+                "question": "Which programme provides healthcare to people below poverty line?",
+                "options": [
+                    "Public Distribution System",
+                    "NREGA",
+                    "National Rural Health Mission",
+                    "Pradhan Mantri Gram Sadak Yojana"
+                ],
+                "correct_answer": 2,
+                "explanation": "National Rural Health Mission (NRHM) provides healthcare services to people below the poverty line, especially in rural areas."
+            }
+        ],
+        "Employment and Unemployment": [
+            {
+                "question": "According to the NSSO, a person is considered unemployed if:",
+                "options": [
+                    "He/she is not willing to work",
+                    "He/she is not able to find work for even one hour in a day",
+                    "He/she works for less than 8 hours",
+                    "He/she earns less than minimum wages"
+                ],
+                "correct_answer": 1,
+                "explanation": "According to NSSO definition, a person is unemployed if he/she is not able to find work for even one hour in a day despite being willing and able to work."
+            },
+            {
+                "question": "Seasonal unemployment is generally found in:",
+                "options": [
+                    "Urban areas",
+                    "Industrial sector",
+                    "Agricultural sector",
+                    "Service sector"
+                ],
+                "correct_answer": 2,
+                "explanation": "Seasonal unemployment is generally found in the agricultural sector where work depends on cropping seasons."
+            },
+            {
+                "question": "Disguised unemployment means:",
+                "options": [
+                    "People are not willing to work",
+                    "More people working than required for productivity",
+                    "People working in shifts",
+                    "People working part-time"
+                ],
+                "correct_answer": 1,
+                "explanation": "Disguised unemployment exists when more people are working than actually needed for the work. Removing some people won't affect productivity."
+            },
+            {
+                "question": "Which type of unemployment is educated unemployment?",
+                "options": [
+                    "Seasonal unemployment",
+                    "Disguised unemployment",
+                    "Structural unemployment",
+                    "Open unemployment"
+                ],
+                "correct_answer": 2,
+                "explanation": "Educated unemployment is a type of structural unemployment where qualified people are unable to find suitable jobs matching their qualifications."
+            },
+            {
+                "question": "The unemployment rate in India is calculated by:",
+                "options": [
+                    "Ministry of Labour",
+                    "Planning Commission",
+                    "NSSO (National Sample Survey Organisation)",
+                    "Reserve Bank of India"
+                ],
+                "correct_answer": 2,
+                "explanation": "NSSO (National Sample Survey Organisation) conducts surveys and calculates unemployment rates in India through periodic surveys."
+            }
+        ],
+        "CBSE Important and Application Questions": [
+            {
+                "question": "Which of the following is a correctly matched pair?",
+                "options": [
+                    "Primary sector - Manufacturing",
+                    "Secondary sector - Agriculture",
+                    "Tertiary sector - Transport",
+                    "Service sector - Mining"
+                ],
+                "correct_answer": 2,
+                "explanation": "Tertiary sector includes services like transport, communication, banking, trade, etc. The other options are incorrectly matched."
+            },
+            {
+                "question": "Human capital formation leads to:",
+                "options": [
+                    "Increase in population",
+                    "Economic growth and development",
+                    "Environmental degradation",
+                    "Social conflicts"
+                ],
+                "correct_answer": 1,
+                "explanation": "Human capital formation through education, health, and skill development leads to economic growth and overall development of the country."
+            },
+            {
+                "question": "If a farmer's family has 5 members working on a farm but the work can be done by 3 members, this is an example of:",
+                "options": [
+                    "Seasonal unemployment",
+                    "Educated unemployment",
+                    "Disguised unemployment",
+                    "Open unemployment"
+                ],
+                "correct_answer": 2,
+                "explanation": "This is disguised unemployment where more people are employed than actually required. The extra 2 members don't add to productivity."
+            },
+            {
+                "question": "Which of the following best explains why Japan is considered economically developed despite having limited natural resources?",
+                "options": [
+                    "High population density",
+                    "Investment in human capital and technology",
+                    "Large area of cultivable land",
+                    "Abundant mineral resources"
+                ],
+                "correct_answer": 1,
+                "explanation": "Japan's economic development despite limited natural resources is due to heavy investment in human capital, education, technology, and skill development."
+            },
+            {
+                "question": "The main source of human capital formation is:",
+                "options": [
+                    "Investment in land",
+                    "Investment in machines",
+                    "Investment in education and health",
+                    "Investment in buildings"
+                ],
+                "correct_answer": 2,
+                "explanation": "Investment in education and health is the main source of human capital formation as it enhances people's skills, knowledge, and productivity."
+            },
+            {
+                "question": "Which of the following statements is INCORRECT about human resources?",
+                "options": [
+                    "They are renewable resources",
+                    "They can be improved through education and health",
+                    "They depreciate if not used properly",
+                    "They are evenly distributed across all countries"
+                ],
+                "correct_answer": 3,
+                "explanation": "Human resources are not evenly distributed across countries. Different countries have varying levels of education, health, and skill development."
+            },
+            {
+                "question": "A construction worker who does not get work during monsoon season is an example of:",
+                "options": [
+                    "Disguised unemployment",
+                    "Seasonal unemployment",
+                    "Educated unemployment",
+                    "Structural unemployment"
+                ],
+                "correct_answer": 1,
+                "explanation": "This is seasonal unemployment where employment opportunities are available only during certain seasons due to nature of work."
+            },
+            {
+                "question": "The literacy rate in India according to 2011 census is approximately:",
+                "options": [
+                    "65%",
+                    "74%",
+                    "80%",
+                    "85%"
+                ],
+                "correct_answer": 1,
+                "explanation": "According to the 2011 census, India's literacy rate was approximately 74%, showing significant improvement from previous decades."
+            },
+            {
+                "question": "Infant Mortality Rate is:",
+                "options": [
+                    "Number of children dying before age of 5 years",
+                    "Number of infants dying before age of 1 year per 1000 live births",
+                    "Number of mothers dying during childbirth",
+                    "Number of children born per 1000 population"
+                ],
+                "correct_answer": 1,
+                "explanation": "Infant Mortality Rate (IMR) is the number of infants dying before reaching one year of age per 1000 live births in a given year."
+            },
+            {
+                "question": "The economic activities which result in production of goods and services that add value to national income are called:",
+                "options": [
+                    "Productive activities",
+                    "Non-productive activities",
+                    "Primary activities",
+                    "Secondary activities"
+                ],
+                "correct_answer": 0,
+                "explanation": "Economic activities that result in production of goods and services and add value to national income are called productive activities."
+            }
+        ],
+        "Government Schemes and Policies": [
+            {
+                "question": "Which scheme aims at providing elementary education to all children?",
+                "options": [
+                    "Mid-day Meal Scheme",
+                    "Sarva Shiksha Abhiyan",
+                    "National Rural Health Mission",
+                    "NREGA"
+                ],
+                "correct_answer": 1,
+                "explanation": "Sarva Shiksha Abhiyan is a government program aimed at providing elementary education to all children aged 6-14 years."
+            },
+            {
+                "question": "The Right to Education Act was implemented in:",
+                "options": [
+                    "2008",
+                    "2009",
+                    "2010",
+                    "2011"
+                ],
+                "correct_answer": 2,
+                "explanation": "The Right to Education (RTE) Act was implemented in 2010, making elementary education a fundamental right for children aged 6-14 years."
+            },
+            {
+                "question": "Which of the following is a health-related government scheme?",
+                "options": [
+                    "Pradhan Mantri Gram Sadak Yojana",
+                    "National Rural Health Mission",
+                    "Sarva Shiksha Abhiyan",
+                    "Public Distribution System"
+                ],
+                "correct_answer": 1,
+                "explanation": "National Rural Health Mission (NRHM) is a health-related government scheme aimed at providing healthcare services, especially in rural areas."
+            }
+        ],
+        "Unemployment Types and Analysis": [
+            {
+                "question": "Which type of unemployment is found in rural areas where people have no work for certain months?",
+                "options": [
+                    "Disguised unemployment",
+                    "Seasonal unemployment",
+                    "Educated unemployment",
+                    "Structural unemployment"
+                ],
+                "correct_answer": 1,
+                "explanation": "Seasonal unemployment occurs in rural areas, especially in agriculture, where people don't have work during certain months of the year."
+            },
+            {
+                "question": "The main cause of educated unemployment in India is:",
+                "options": [
+                    "Lack of education",
+                    "Mismatch between education and job requirements",
+                    "High population growth",
+                    "Lack of government policies"
+                ],
+                "correct_answer": 1,
+                "explanation": "Educated unemployment in India is mainly due to mismatch between the education system and job market requirements."
+            },
+            {
+                "question": "Which of the following measures can reduce unemployment?",
+                "options": [
+                    "Investment in education and health",
+                    "Promoting self-employment",
+                    "Skill development programs",
+                    "All of the above"
+                ],
+                "correct_answer": 3,
+                "explanation": "All these measures - investment in education and health, promoting self-employment, and skill development programs - can help reduce unemployment."
+            }
+        ],
+        "Case Study and Application": [
+            {
+                "question": "Study the following data:\nCountry A: High literacy rate, good health facilities, skilled workforce\nCountry B: Low literacy rate, poor health facilities, unskilled workforce\nWhich country is likely to have better economic development?",
+                "options": [
+                    "Country A",
+                    "Country B",
+                    "Both equally",
+                    "Cannot be determined"
+                ],
+                "correct_answer": 0,
+                "explanation": "Country A is likely to have better economic development due to its high-quality human capital through education, health, and skills."
+            },
+            {
+                "question": "In a village, 10 people are working on a farm but only 6 are actually needed. What should be done with the extra 4 people?",
+                "options": [
+                    "They should continue working on the farm",
+                    "They should be provided alternative employment or training",
+                    "They should be asked to leave the village",
+                    "Nothing needs to be done"
+                ],
+                "correct_answer": 1,
+                "explanation": "The extra 4 people represent disguised unemployment and should be provided alternative employment opportunities or skill training for better utilization."
+            },
+            {
+                "question": "Which factor is MOST important for converting population into human capital?",
+                "options": [
+                    "Large population size",
+                    "Investment in education and healthcare",
+                    "Natural resources availability",
+                    "Government policies alone"
+                ],
+                "correct_answer": 1,
+                "explanation": "Investment in education and healthcare is the most important factor for converting population into human capital as it develops skills and productivity."
+            }
+        ]
+    }
     }
 }
