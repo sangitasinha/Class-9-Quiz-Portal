@@ -61,29 +61,457 @@
                 }
             ]
         },
-        "Chapter 2: Constitutional Design": {
-            "Making of Indian Constitution": [
+        "Constitutional Design": {
+            "Democratic Constitution in South Africa": [
                 {
-                    "question": "Who was the chairman of the Drafting Committee of the Indian Constitution?",
+                    "question": "Which system was practiced in South Africa before 1994?",
                     "options": [
-                        "Mahatma Gandhi",
-                        "Jawaharlal Nehru",
-                        "Dr. B.R. Ambedkar",
-                        "Sardar Patel"
+                        "Democracy",
+                        "Apartheid",
+                        "Monarchy",
+                        "Socialism"
                     ],
-                    "correct_answer": 2,
-                    "explanation": "Dr. B.R. Ambedkar was the chairman of the Drafting Committee and is known as the architect of the Indian Constitution."
+                    "correct_answer": 1,
+                    "explanation": "Apartheid was the system of racial segregation practiced in South Africa before 1994, where the white minority ruled over the black majority."
                 },
                 {
-                    "question": "When was the Indian Constitution adopted?",
+                    "question": "Who was the first President of South Africa after apartheid ended?",
                     "options": [
-                        "15 August 1947",
-                        "26 January 1950",
-                        "26 November 1949",
-                        "2 October 1948"
+                        "F.W. de Klerk",
+                        "Nelson Mandela",
+                        "Thabo Mbeki",
+                        "Jacob Zuma"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Nelson Mandela became the first black President of South Africa in 1994 after the end of apartheid and the first democratic elections."
+                },
+                {
+                    "question": "The African National Congress (ANC) was led by:",
+                    "options": [
+                        "Mahatma Gandhi",
+                        "Nelson Mandela",
+                        "F.W. de Klerk",
+                        "Desmond Tutu"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Nelson Mandela was the prominent leader of the African National Congress (ANC), the main organization fighting against apartheid."
+                },
+                {
+                    "question": "In which year did apartheid end in South Africa?",
+                    "options": [
+                        "1992",
+                        "1993",
+                        "1994",
+                        "1995"
                     ],
                     "correct_answer": 2,
-                    "explanation": "The Indian Constitution was adopted on 26 November 1949, but came into effect on 26 January 1950."
+                    "explanation": "Apartheid officially ended in 1994 when South Africa held its first democratic elections with universal adult franchise."
+                },
+                {
+                    "question": "The interim constitution of South Africa came into effect in:",
+                    "options": [
+                        "1993",
+                        "1994",
+                        "1995",
+                        "1996"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "The interim constitution came into effect in 1994, providing the framework for the transition from apartheid to democracy."
+                },
+                {
+                    "question": "What does the term 'apartheid' mean?",
+                    "options": [
+                        "Unity",
+                        "Separation",
+                        "Democracy",
+                        "Freedom"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Apartheid means 'separation' in Afrikaans language, referring to the policy of racial segregation and discrimination."
+                },
+                {
+                    "question": "The new South African constitution was adopted in which year?",
+                    "options": [
+                        "1994",
+                        "1995",
+                        "1996",
+                        "1997"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "The new constitution of South Africa was adopted in 1996, replacing the interim constitution and establishing a fully democratic framework."
+                }
+            ],
+            "Why Do We Need a Constitution": [
+                {
+                    "question": "A constitution is needed to:",
+                    "options": [
+                        "Limit the powers of government",
+                        "Define the structure of government",
+                        "Protect fundamental rights",
+                        "All of the above"
+                    ],
+                    "correct_answer": 3,
+                    "explanation": "A constitution serves multiple purposes including limiting government power, defining governmental structure, and protecting citizens' rights."
+                },
+                {
+                    "question": "Which of the following is NOT a function of constitution?",
+                    "options": [
+                        "It generates trust and coordination",
+                        "It specifies how the government will be constituted",
+                        "It lays down limits on the powers of the government",
+                        "It decides the price of commodities"
+                    ],
+                    "correct_answer": 3,
+                    "explanation": "Deciding commodity prices is an economic policy matter, not a constitutional function. Constitution deals with fundamental governance principles."
+                },
+                {
+                    "question": "The constitution expresses the aspirations of:",
+                    "options": [
+                        "Government officials",
+                        "Political parties",
+                        "People of a country",
+                        "Military forces"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "Constitution represents the collective will and aspirations of the people of a country, serving as their fundamental charter."
+                },
+                {
+                    "question": "Constitution is the supreme law because:",
+                    "options": [
+                        "It is made by the government",
+                        "All other laws must be in accordance with it",
+                        "It cannot be changed",
+                        "It is written by experts"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Constitution is supreme because all other laws, policies, and government actions must conform to its provisions and principles."
+                },
+                {
+                    "question": "A good constitution must be:",
+                    "options": [
+                        "Acceptable to people",
+                        "Based on agreement",
+                        "Both a and b",
+                        "Neither a nor b"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "A good constitution must have both popular acceptance and be based on broad consensus among different groups in society."
+                }
+            ],
+            "Making of the Indian Constitution": [
+                {
+                    "question": "The Constituent Assembly of India was formed in:",
+                    "options": [
+                        "1945",
+                        "1946",
+                        "1947",
+                        "1948"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "The Constituent Assembly was formed in 1946 under the Cabinet Mission Plan to draft the Constitution of independent India."
+                },
+                {
+                    "question": "Who was the Chairman of the Drafting Committee of Indian Constitution?",
+                    "options": [
+                        "Dr. Rajendra Prasad",
+                        "Jawaharlal Nehru",
+                        "Dr. B.R. Ambedkar",
+                        "Sardar Vallabhbhai Patel"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "Dr. B.R. Ambedkar was the Chairman of the Drafting Committee and is known as the 'Father of the Indian Constitution'."
+                },
+                {
+                    "question": "The Indian Constitution was adopted on:",
+                    "options": [
+                        "15 August 1947",
+                        "26 January 1949",
+                        "26 November 1949",
+                        "26 January 1950"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "The Indian Constitution was adopted on 26 November 1949 by the Constituent Assembly."
+                },
+                {
+                    "question": "The Indian Constitution came into effect on:",
+                    "options": [
+                        "15 August 1947",
+                        "26 November 1949",
+                        "26 January 1950",
+                        "2 October 1950"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "The Indian Constitution came into effect on 26 January 1950, which is celebrated as Republic Day."
+                },
+                {
+                    "question": "Who was the President of the Constituent Assembly?",
+                    "options": [
+                        "Dr. B.R. Ambedkar",
+                        "Dr. Rajendra Prasad",
+                        "Jawaharlal Nehru",
+                        "Mahatma Gandhi"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Dr. Rajendra Prasad was the President of the Constituent Assembly and later became the first President of India."
+                },
+                {
+                    "question": "The Objectives Resolution was moved by:",
+                    "options": [
+                        "Dr. B.R. Ambedkar",
+                        "Dr. Rajendra Prasad",
+                        "Jawaharlal Nehru",
+                        "Sardar Vallabhbhai Patel"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "Jawaharlal Nehru moved the Objectives Resolution in the Constituent Assembly, which outlined the aims and objectives of the Constitution."
+                },
+                {
+                    "question": "How many members were there in the Constituent Assembly?",
+                    "options": [
+                        "299",
+                        "300",
+                        "301",
+                        "302"
+                    ],
+                    "correct_answer": 0,
+                    "explanation": "After partition, the Constituent Assembly had 299 members who worked on drafting the Indian Constitution."
+                },
+                {
+                    "question": "The Constitution of India was handwritten by:",
+                    "options": [
+                        "Dr. B.R. Ambedkar",
+                        "Prem Behari Narain Raizada",
+                        "Dr. Rajendra Prasad",
+                        "Jawaharlal Nehru"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Prem Behari Narain Raizada handwrote the original Constitution of India in beautiful calligraphy."
+                },
+                {
+                    "question": "How much time did it take to frame the Indian Constitution?",
+                    "options": [
+                        "2 years 10 months",
+                        "2 years 11 months 18 days",
+                        "3 years",
+                        "2 years 6 months"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "The Indian Constitution took 2 years, 11 months and 18 days to be completed by the Constituent Assembly."
+                }
+            ],
+            "Guiding Values of Indian Constitution": [
+                {
+                    "question": "The Preamble of Indian Constitution begins with:",
+                    "options": [
+                        "We, the citizens of India",
+                        "We, the government of India",
+                        "We, the people of India",
+                        "We, the states of India"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "The Preamble begins with 'We, the people of India', emphasizing that the Constitution derives its authority from the people."
+                },
+                {
+                    "question": "Which of the following is NOT mentioned in the Preamble?",
+                    "options": [
+                        "Justice",
+                        "Liberty",
+                        "Equality",
+                        "Prosperity"
+                    ],
+                    "correct_answer": 3,
+                    "explanation": "Prosperity is not explicitly mentioned in the Preamble. The Preamble mentions Justice, Liberty, Equality, and Fraternity."
+                },
+                {
+                    "question": "The term 'Socialist' was added to the Preamble by which amendment?",
+                    "options": [
+                        "40th Amendment",
+                        "42nd Amendment",
+                        "44th Amendment",
+                        "46th Amendment"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "The 42nd Amendment in 1976 added the words 'Socialist' and 'Secular' to the Preamble during Emergency period."
+                },
+                {
+                    "question": "The term 'Secular' was added to the Preamble by:",
+                    "options": [
+                        "40th Amendment",
+                        "42nd Amendment",
+                        "44th Amendment",
+                        "46th Amendment"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "The 42nd Amendment in 1976 added both 'Socialist' and 'Secular' to the Preamble."
+                },
+                {
+                    "question": "India is described as a 'Republic' which means:",
+                    "options": [
+                        "The head of the state is elected",
+                        "The head of the state is hereditary",
+                        "The government is formed by people",
+                        "The constitution is supreme"
+                    ],
+                    "correct_answer": 0,
+                    "explanation": "Republic means the head of state (President) is elected by people's representatives, not hereditary like in monarchy."
+                },
+                {
+                    "question": "The philosophy of Indian Constitution is reflected in:",
+                    "options": [
+                        "Fundamental Rights",
+                        "Directive Principles",
+                        "Preamble",
+                        "All of the above"
+                    ],
+                    "correct_answer": 3,
+                    "explanation": "The philosophy and values of the Constitution are reflected in all its parts - Preamble, Fundamental Rights, and Directive Principles."
+                },
+                {
+                    "question": "Which of the following principles is emphasized in Indian Constitution?",
+                    "options": [
+                        "Federalism",
+                        "Secularism",
+                        "Democracy",
+                        "All of the above"
+                    ],
+                    "correct_answer": 3,
+                    "explanation": "The Indian Constitution emphasizes multiple principles including federalism, secularism, democracy, and socialism."
+                }
+            ],
+            "Institutional Design": [
+                {
+                    "question": "The Indian Constitution provides for:",
+                    "options": [
+                        "Unitary government",
+                        "Federal government",
+                        "Confederate government",
+                        "Authoritarian government"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "India has a federal system of government with division of powers between the Central and State governments."
+                },
+                {
+                    "question": "The Constitution divides powers between:",
+                    "options": [
+                        "Central and State governments",
+                        "Legislature and Executive",
+                        "Executive and Judiciary",
+                        "All of the above"
+                    ],
+                    "correct_answer": 3,
+                    "explanation": "The Constitution divides powers both horizontally (among Legislature, Executive, Judiciary) and vertically (between Central and State governments)."
+                },
+                {
+                    "question": "The principle of separation of powers means:",
+                    "options": [
+                        "Powers are concentrated in one institution",
+                        "Powers are divided among different institutions",
+                        "Powers belong to the people",
+                        "Powers are unlimited"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Separation of powers means dividing governmental powers among different institutions (Legislature, Executive, Judiciary) to prevent abuse of power."
+                },
+                {
+                    "question": "Parliamentary system of government means:",
+                    "options": [
+                        "Executive is responsible to Legislature",
+                        "Legislature is responsible to Executive",
+                        "Judiciary controls both",
+                        "All powers rest with Parliament"
+                    ],
+                    "correct_answer": 0,
+                    "explanation": "In parliamentary system, the executive (Council of Ministers) is responsible to the legislature (Parliament) and can be removed by it."
+                },
+                {
+                    "question": "The Constitution of India establishes:",
+                    "options": [
+                        "Two-tier government",
+                        "Three-tier government",
+                        "Four-tier government",
+                        "Single-tier government"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Originally two-tier (Central and State), but after 73rd and 74th amendments, India has three-tier government including local governments."
+                },
+                {
+                    "question": "Independent judiciary means:",
+                    "options": [
+                        "Judges are appointed by people",
+                        "Judges work independently of government control",
+                        "Judges can change laws",
+                        "Judges are above the Constitution"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Independent judiciary means judges can make decisions based on law and Constitution without interference from executive or legislative branches."
+                }
+            ],
+            "Bill of Rights (Fundamental Rights)": [
+                {
+                    "question": "Fundamental Rights are:",
+                    "options": [
+                        "Available to all people",
+                        "Available only to citizens",
+                        "Some available to all, some only to citizens",
+                        "Available only to government officials"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "Some Fundamental Rights like Right to Life are available to all persons, while others like Right to Vote are available only to citizens."
+                },
+                {
+                    "question": "How many Fundamental Rights are guaranteed by Indian Constitution?",
+                    "options": [
+                        "Five",
+                        "Six",
+                        "Seven",
+                        "Eight"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Currently there are six Fundamental Rights after Right to Property was removed by the 44th Amendment in 1978."
+                },
+                {
+                    "question": "Which Fundamental Right was removed by 44th Amendment?",
+                    "options": [
+                        "Right to Equality",
+                        "Right to Property",
+                        "Right to Freedom",
+                        "Right to Education"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "Right to Property was removed as a Fundamental Right by the 44th Amendment in 1978, though it remains a legal right."
+                },
+                {
+                    "question": "The Right to Constitutional Remedies is called:",
+                    "options": [
+                        "Heart of Constitution",
+                        "Soul of Constitution",
+                        "Brain of Constitution",
+                        "Spirit of Constitution"
+                    ],
+                    "correct_answer": 0,
+                    "explanation": "Dr. B.R. Ambedkar called Right to Constitutional Remedies the 'Heart and Soul' of the Constitution as it enables enforcement of other rights."
+                },
+                {
+                    "question": "Article 32 deals with:",
+                    "options": [
+                        "Right to Equality",
+                        "Right to Freedom of Religion",
+                        "Right to Constitutional Remedies",
+                        "Right against Exploitation"
+                    ],
+                    "correct_answer": 2,
+                    "explanation": "Article 32 provides Right to Constitutional Remedies, empowering citizens to approach courts directly for enforcement of Fundamental Rights."
+                },
+                {
+                    "question": "Fundamental Rights can be suspended during:",
+                    "options": [
+                        "Elections",
+                        "Emergency",
+                        "Economic crisis",
+                        "Natural disasters"
+                    ],
+                    "correct_answer": 1,
+                    "explanation": "During National Emergency, Fundamental Rights (except Articles 20 and 21) can be suspended by the government."
                 }
             ]
         }
