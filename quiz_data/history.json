@@ -1,66 +1,575 @@
 {
     "History": {
-        "Chapter 1: The French Revolution": {
-            "Causes of French Revolution": [
-                {
-                    "question": "Which estate paid most of the taxes in France before 1789?",
-                    "options": [
-                        "First Estate (Clergy)",
-                        "Second Estate (Nobility)",
-                        "Third Estate (Common people)",
-                        "All estates equally"
-                    ],
-                    "correct_answer": 2,
-                    "explanation": "The Third Estate, which comprised about 98% of the population, bore the burden of taxation while the privileged First and Second Estates were largely exempt."
-                },
-                {
-                    "question": "What was the immediate cause of calling the Estates-General in 1789?",
-                    "options": [
-                        "Social inequality",
-                        "Financial crisis",
-                        "Political uprising",
-                        "Foreign invasion"
-                    ],
-                    "correct_answer": 1,
-                    "explanation": "France faced an acute financial crisis due to wars, maintenance of the army, court expenses at Versailles, and interest on loans."
-                },
-                {
-                    "question": "What was the system of taxation before the French Revolution called?",
-                    "options": [
-                        "Taille",
-                        "Tithe",
-                        "Feudal system",
-                        "All of the above"
-                    ],
-                    "correct_answer": 3,
-                    "explanation": "The taxation system included Taille (land tax), Tithe (church tax), and various feudal obligations that burdened the Third Estate."
-                }
-            ],
-            "Major Events of Revolution": [
-                {
-                    "question": "When did the French Revolution begin?",
-                    "options": [
-                        "1787",
-                        "1789",
-                        "1791",
-                        "1793"
-                    ],
-                    "correct_answer": 1,
-                    "explanation": "The French Revolution began in 1789 with the convening of the Estates-General and the Tennis Court Oath."
-                },
-                {
-                    "question": "What was the Tennis Court Oath?",
-                    "options": [
-                        "A sports event",
-                        "An oath by the Third Estate to draft a constitution",
-                        "A treaty with England",
-                        "A religious ceremony"
-                    ],
-                    "correct_answer": 1,
-                    "explanation": "The Tennis Court Oath was taken by members of the Third Estate who vowed to draft a constitution for France."
-                }
-            ]
-        },
+  "The French Revolution": {
+    "French Society During the Late Eighteenth Century": [
+      {
+        "question": "French society in the eighteenth century was divided into how many estates?",
+        "options": [
+          "Two",
+          "Three",
+          "Four",
+          "Five"
+        ],
+        "correct_answer": 1,
+        "explanation": "French society was divided into three estates: First Estate (clergy), Second Estate (nobility), and Third Estate (commoners including peasants, artisans, and middle class)."
+      },
+      {
+        "question": "Which estate comprised the clergy in French society?",
+        "options": [
+          "First Estate",
+          "Second Estate",
+          "Third Estate",
+          "Fourth Estate"
+        ],
+        "correct_answer": 0,
+        "explanation": "The First Estate consisted of the clergy who owned about 10% of land and were exempt from paying taxes to the state."
+      },
+      {
+        "question": "The nobility belonged to which estate?",
+        "options": [
+          "First Estate",
+          "Second Estate",
+          "Third Estate",
+          "None of these"
+        ],
+        "correct_answer": 1,
+        "explanation": "The Second Estate comprised the nobility who enjoyed feudal privileges and were exempt from paying taxes like taille."
+      },
+      {
+        "question": "What percentage of the population was represented by the First and Second Estates combined?",
+        "options": [
+          "About 1%",
+          "About 2%",
+          "About 5%",
+          "About 10%"
+        ],
+        "correct_answer": 1,
+        "explanation": "The First and Second Estates together comprised only about 2% of the population but controlled most of the wealth and land."
+      },
+      {
+        "question": "The Third Estate included all of the following EXCEPT:",
+        "options": [
+          "Peasants",
+          "Artisans",
+          "Lawyers",
+          "Clergy"
+        ],
+        "correct_answer": 3,
+        "explanation": "The clergy belonged to the First Estate, not the Third Estate. The Third Estate included peasants, artisans, lawyers, and other commoners."
+      },
+      {
+        "question": "What was 'taille'?",
+        "options": [
+          "A type of bread",
+          "A direct tax",
+          "A feudal due",
+          "A court"
+        ],
+        "correct_answer": 1,
+        "explanation": "Taille was a direct tax that was paid only by members of the Third Estate. The First and Second Estates were exempt from this tax."
+      },
+      {
+        "question": "Which tax was levied by the church on the peasants?",
+        "options": [
+          "Taille",
+          "Tithe",
+          "Gabelle",
+          "Livre"
+        ],
+        "correct_answer": 1,
+        "explanation": "Tithe was a tax levied by the church, comprising one-tenth of the agricultural produce from peasants."
+      },
+      {
+        "question": "The burden of financing activities of the state through taxes was borne by:",
+        "options": [
+          "First Estate only",
+          "Second Estate only",
+          "Third Estate only",
+          "All three estates equally"
+        ],
+        "correct_answer": 2,
+        "explanation": "Only the Third Estate paid taxes to the state while the First and Second Estates enjoyed exemption from most taxes despite being wealthy."
+      }
+    ],
+    "The Struggle for Survival - Economic Crisis": [
+      {
+        "question": "The population of France rose from _____ million in 1715 to _____ million in 1789.",
+        "options": [
+          "20, 25",
+          "23, 28",
+          "25, 30",
+          "30, 35"
+        ],
+        "correct_answer": 1,
+        "explanation": "The population of France increased from 23 million in 1715 to 28 million in 1789, leading to increased demand for foodgrains."
+      },
+      {
+        "question": "What led to a rapid increase in the demand for foodgrains in 18th century France?",
+        "options": [
+          "Export to other countries",
+          "Population growth",
+          "Storage for future",
+          "Religious ceremonies"
+        ],
+        "correct_answer": 1,
+        "explanation": "The rapid population growth in 18th century France led to increased demand for foodgrains, but production could not keep pace with demand."
+      },
+      {
+        "question": "Most workers in France were employed as:",
+        "options": [
+          "Farmers",
+          "Labourers",
+          "Artisans",
+          "Traders"
+        ],
+        "correct_answer": 1,
+        "explanation": "Most workers were employed as labourers whose wages were fixed but the price of bread (staple food) kept rising, creating hardship."
+      },
+      {
+        "question": "The price of bread, which was the staple diet, rose by:",
+        "options": [
+          "50% between 1788-1789",
+          "60% between 1788-1789",
+          "70% between 1788-1789",
+          "80% between 1788-1789"
+        ],
+        "correct_answer": 3,
+        "explanation": "The price of bread rose by 80% between 1788-1789 due to bad harvests, making it difficult for the poor to survive."
+      },
+      {
+        "question": "Bad harvest led to:",
+        "options": [
+          "Subsistence crisis",
+          "Political crisis",
+          "Social crisis",
+          "Religious crisis"
+        ],
+        "correct_answer": 0,
+        "explanation": "Bad harvests led to a subsistence crisis - an extreme situation where basic means of livelihood are endangered."
+      }
+    ],
+    "A Growing Middle Class Envisages an End to Privileges": [
+      {
+        "question": "The middle class emerged in France during which century?",
+        "options": [
+          "16th century",
+          "17th century",
+          "18th century",
+          "19th century"
+        ],
+        "correct_answer": 2,
+        "explanation": "The middle class emerged in France during the 18th century and included educated people like lawyers, doctors, teachers, and writers."
+      },
+      {
+        "question": "The ideas of a society based on freedom and equal laws were put forward by:",
+        "options": [
+          "John Locke",
+          "Rousseau",
+          "Montesquieu",
+          "All of the above"
+        ],
+        "correct_answer": 3,
+        "explanation": "Philosophers like John Locke, Rousseau, and Montesquieu all contributed ideas about freedom, equality, and democracy that influenced the revolution."
+      },
+      {
+        "question": "In his book 'The Spirit of the Laws', Montesquieu proposed:",
+        "options": [
+          "Division of power within government",
+          "Abolition of monarchy",
+          "Equal rights for women",
+          "End of slavery"
+        ],
+        "correct_answer": 0,
+        "explanation": "Montesquieu proposed the division of power between legislature, executive, and judiciary to prevent concentration of power in one person."
+      },
+      {
+        "question": "Who wrote 'The Social Contract'?",
+        "options": [
+          "Voltaire",
+          "Rousseau",
+          "Montesquieu",
+          "John Locke"
+        ],
+        "correct_answer": 1,
+        "explanation": "Jean Jacques Rousseau wrote 'The Social Contract' which proposed that government should be based on consent of the governed."
+      },
+      {
+        "question": "The American Constitution and its guarantee of individual rights was an important example for:",
+        "options": [
+          "German revolutionaries",
+          "French revolutionaries",
+          "Russian revolutionaries",
+          "Italian revolutionaries"
+        ],
+        "correct_answer": 1,
+        "explanation": "The American Constitution with its Bill of Rights served as an important model for French revolutionaries who wanted similar rights."
+      },
+      {
+        "question": "The concept of 'Divine Right Theory' was challenged by:",
+        "options": [
+          "John Locke",
+          "Rousseau",
+          "Both (a) and (b)",
+          "Montesquieu"
+        ],
+        "correct_answer": 2,
+        "explanation": "Both John Locke and Rousseau challenged the Divine Right Theory which claimed that kings derived their authority from God."
+      }
+    ],
+    "The Outbreak of the Revolution": [
+      {
+        "question": "Louis XVI ascended the throne of France in:",
+        "options": [
+          "1770",
+          "1774",
+          "1780",
+          "1789"
+        ],
+        "correct_answer": 1,
+        "explanation": "Louis XVI became king of France in 1774 and inherited a financial crisis from his predecessors."
+      },
+      {
+        "question": "Upon his accession, Louis XVI found:",
+        "options": [
+          "Empty treasury",
+          "Rising prices",
+          "Unwillingness to pay taxes",
+          "All of the above"
+        ],
+        "correct_answer": 3,
+        "explanation": "Louis XVI inherited multiple crises: empty treasury due to wars, rising prices due to demand-supply imbalance, and unwillingness of privileged classes to pay taxes."
+      },
+      {
+        "question": "France helped which country in their war of independence?",
+        "options": [
+          "America",
+          "Britain",
+          "Spain",
+          "Italy"
+        ],
+        "correct_answer": 0,
+        "explanation": "France supported America in its war of independence against Britain, which added to France's financial crisis."
+      },
+      {
+        "question": "Which finance minister proposed that the privileged estates should also pay taxes?",
+        "options": [
+          "Necker",
+          "Turgot",
+          "Both (a) and (b)",
+          "Calonne"
+        ],
+        "correct_answer": 2,
+        "explanation": "Both Turgot and Necker, finance ministers under Louis XVI, proposed that privileged estates should pay taxes, but they were dismissed."
+      },
+      {
+        "question": "The Estates General was convened by Louis XVI in:",
+        "options": [
+          "1788",
+          "1789",
+          "1790",
+          "1791"
+        ],
+        "correct_answer": 1,
+        "explanation": "Louis XVI convened the Estates General on May 5, 1789, to find a solution to the financial crisis."
+      },
+      {
+        "question": "The Estates General had been convened after a gap of:",
+        "options": [
+          "165 years",
+          "175 years",
+          "185 years",
+          "195 years"
+        ],
+        "correct_answer": 1,
+        "explanation": "The Estates General had last met in 1614, so it was convened after a gap of 175 years in 1789."
+      },
+      {
+        "question": "Each estate had how many votes in the Estates General?",
+        "options": [
+          "One",
+          "Two",
+          "Three",
+          "Equal to their population"
+        ],
+        "correct_answer": 0,
+        "explanation": "Each estate had one vote regardless of population size, which meant the Third Estate (98% population) could be outvoted by First and Second Estates."
+      }
+    ],
+    "France Becomes a Constitutional Monarchy": [
+      {
+        "question": "The Third Estate declared itself the:",
+        "options": [
+          "National Assembly",
+          "Constitutional Assembly",
+          "Legislative Assembly",
+          "General Assembly"
+        ],
+        "correct_answer": 0,
+        "explanation": "On June 17, 1789, the Third Estate declared itself the National Assembly and invited other estates to join them."
+      },
+      {
+        "question": "The Tennis Court Oath was taken on:",
+        "options": [
+          "20th June 1789",
+          "14th July 1789",
+          "20th July 1789",
+          "26th August 1789"
+        ],
+        "correct_answer": 0,
+        "explanation": "The Tennis Court Oath was taken on June 20, 1789, when members vowed to draft a constitution for France."
+      },
+      {
+        "question": "The Bastille was stormed on:",
+        "options": [
+          "20th June 1789",
+          "14th July 1789",
+          "26th August 1789",
+          "5th October 1789"
+        ],
+        "correct_answer": 1,
+        "explanation": "The Bastille fortress was stormed by Parisians on July 14, 1789, which is celebrated as French National Day."
+      },
+      {
+        "question": "The Bastille fortress was hated by all because:",
+        "options": [
+          "It was a symbol of royal authority",
+          "It represented despotic power of the king",
+          "Political prisoners were kept there",
+          "All of the above"
+        ],
+        "correct_answer": 3,
+        "explanation": "The Bastille represented royal authority, despotic power, and housed political prisoners, making it a symbol of oppression."
+      },
+      {
+        "question": "The Declaration of Rights of Man and Citizen was adopted in:",
+        "options": [
+          "June 1789",
+          "July 1789",
+          "August 1789",
+          "September 1789"
+        ],
+        "correct_answer": 2,
+        "explanation": "The Declaration of Rights of Man and Citizen was adopted by the National Assembly in August 1789."
+      },
+      {
+        "question": "How many articles were there in the Declaration of Rights of Man and Citizen?",
+        "options": [
+          "15",
+          "17",
+          "19",
+          "21"
+        ],
+        "correct_answer": 1,
+        "explanation": "The Declaration contained 17 articles that proclaimed natural and inalienable rights of man."
+      },
+      {
+        "question": "The Constitution of 1791 vested the power to make laws in:",
+        "options": [
+          "National Assembly",
+          "King",
+          "Council of Ministers",
+          "Supreme Court"
+        ],
+        "correct_answer": 0,
+        "explanation": "The Constitution of 1791 established France as a constitutional monarchy with the National Assembly having power to make laws."
+      },
+      {
+        "question": "Citizens who had the right to vote were called:",
+        "options": [
+          "Passive citizens",
+          "Active citizens",
+          "National citizens",
+          "Constitutional citizens"
+        ],
+        "correct_answer": 1,
+        "explanation": "Only men above 25 years who paid taxes equal to at least 3 days' wages were called active citizens and could vote."
+      }
+    ],
+    "France Abolishes Monarchy and Becomes a Republic": [
+      {
+        "question": "The National Convention abolished monarchy in France in:",
+        "options": [
+          "1791",
+          "1792",
+          "1793",
+          "1794"
+        ],
+        "correct_answer": 1,
+        "explanation": "The newly elected National Convention abolished monarchy on September 21, 1792, and declared France a republic."
+      },
+      {
+        "question": "Louis XVI was executed in:",
+        "options": [
+          "1792",
+          "1793",
+          "1794",
+          "1795"
+        ],
+        "correct_answer": 1,
+        "explanation": "Louis XVI was tried for treason and executed on January 21, 1793, followed by his wife Marie Antoinette."
+      },
+      {
+        "question": "The period from 1793-1794 is referred to as:",
+        "options": [
+          "Reign of Terror",
+          "Great Fear",
+          "Directory Rule",
+          "Constitutional Monarchy"
+        ],
+        "correct_answer": 0,
+        "explanation": "The period from 1793-1794 under Robespierre is called the Reign of Terror when thousands were executed as 'enemies of the republic'."
+      },
+      {
+        "question": "Who was the leader of the Jacobins?",
+        "options": [
+          "Georges Danton",
+          "Jean-Paul Marat",
+          "Maximilien Robespierre",
+          "Jacques Pierre Brissot"
+        ],
+        "correct_answer": 2,
+        "explanation": "Maximilien Robespierre was the leader of the Jacobin Club and controlled the government during the Reign of Terror."
+      },
+      {
+        "question": "The Guillotine was used for:",
+        "options": [
+          "Cutting bread",
+          "Execution",
+          "Construction work",
+          "Agricultural purposes"
+        ],
+        "correct_answer": 1,
+        "explanation": "The guillotine was a device used for executions during the French Revolution, designed to be quick and humane."
+      },
+      {
+        "question": "Robespierre was executed in:",
+        "options": [
+          "July 1794",
+          "August 1794",
+          "September 1794",
+          "October 1794"
+        ],
+        "correct_answer": 0,
+        "explanation": "Robespierre was arrested and executed in July 1794, ending the Reign of Terror."
+      }
+    ],
+    "Did Women Have a Revolution?": [
+      {
+        "question": "Women in France could not enjoy:",
+        "options": [
+          "Equal political rights",
+          "Right to education",
+          "Right to work",
+          "Right to property"
+        ],
+        "correct_answer": 0,
+        "explanation": "Women were denied equal political rights and could not vote or hold office despite their active participation in the revolution."
+      },
+      {
+        "question": "Who wrote the 'Declaration of Rights of Woman and Female Citizen'?",
+        "options": [
+          "Olympe de Gouges",
+          "Marie Antoinette",
+          "Charlotte Corday",
+          "Madame Roland"
+        ],
+        "correct_answer": 0,
+        "explanation": "Olympe de Gouges wrote this declaration in 1791 to demand equal rights for women, but she was later executed."
+      },
+      {
+        "question": "Most revolutionary political clubs:",
+        "options": [
+          "Allowed women as members",
+          "Denied women the right of membership",
+          "Had separate sections for women",
+          "Were exclusively for women"
+        ],
+        "correct_answer": 1,
+        "explanation": "Most revolutionary political clubs denied women membership rights, though women formed their own clubs."
+      },
+      {
+        "question": "Women's clubs were closed by the government in:",
+        "options": [
+          "1791",
+          "1793",
+          "1795",
+          "1799"
+        ],
+        "correct_answer": 1,
+        "explanation": "In 1793, the government closed women's clubs and banned their political activities, restricting women to private sphere."
+      }
+    ],
+    "The Abolition of Slavery": [
+      {
+        "question": "The triangular slave trade connected:",
+        "options": [
+          "Europe, Africa, and America",
+          "Europe, Asia, and Africa",
+          "Africa, Asia, and America",
+          "Europe, Africa, and Asia"
+        ],
+        "correct_answer": 0,
+        "explanation": "The triangular slave trade connected Europe (manufactured goods), Africa (slaves), and America (sugar, tobacco, cotton)."
+      },
+      {
+        "question": "Slavery was finally abolished in French colonies in:",
+        "options": [
+          "1794",
+          "1848",
+          "1804",
+          "1815"
+        ],
+        "correct_answer": 1,
+        "explanation": "Though briefly abolished in 1794, slavery was reintroduced by Napoleon and finally abolished in all French colonies in 1848."
+      },
+      {
+        "question": "The National Convention freed all slaves in:",
+        "options": [
+          "1792",
+          "1794",
+          "1848",
+          "1804"
+        ],
+        "correct_answer": 1,
+        "explanation": "The National Convention freed all slaves in French overseas possessions in 1794, though this was later reversed."
+      }
+    ],
+    "The Revolution and Everyday Life": [
+      {
+        "question": "The revolutionary government introduced which new calendar?",
+        "options": [
+          "Gregorian calendar",
+          "Republican calendar",
+          "Revolutionary calendar",
+          "Democratic calendar"
+        ],
+        "correct_answer": 1,
+        "explanation": "The revolutionary government introduced the Republican calendar to remove Christian influence and start a new era."
+      },
+      {
+        "question": "The old chain of being was:",
+        "options": [
+          "A feudal system",
+          "A social hierarchy",
+          "An economic system",
+          "A political structure"
+        ],
+        "correct_answer": 1,
+        "explanation": "The old chain of being was a social hierarchy that placed different groups in a fixed order, which the revolution sought to break."
+      },
+      {
+        "question": "Which title was used for addressing people during the Revolution?",
+        "options": [
+          "Monsieur and Madame",
+          "Citoyen and Citoyenne",
+          "Sir and Madam",
+          "Lord and Lady"
+        ],
+        "correct_answer": 1,
+        "explanation": "The titles 'Citoyen' (citizen) and 'Citoyenne' (female citizen) replaced traditional titles to emphasize equality."
+      }
+    ]
+  },
         "Socialism in Europe and the Russian Revolution": {
             "The Age of Social Change": [
                 {
