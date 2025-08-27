@@ -1,66 +1,351 @@
 {
     "Civics": {
-        "Chapter 1: Democracy in the Contemporary World": {
-            "What is Democracy?": [
-                {
-                    "question": "What does the word 'democracy' mean?",
-                    "options": [
-                        "Rule by the rich",
-                        "Rule by the people",
-                        "Rule by the military",
-                        "Rule by the educated"
-                    ],
-                    "correct_answer": 1,
-                    "explanation": "Democracy comes from the Greek words 'demos' (people) and 'kratia' (rule), meaning rule by the people."
-                },
-                {
-                    "question": "In which country did democracy originate?",
-                    "options": [
-                        "Rome",
-                        "Greece",
-                        "Egypt",
-                        "India"
-                    ],
-                    "correct_answer": 1,
-                    "explanation": "Democracy originated in ancient Greece, particularly in Athens around the 5th century BCE."
-                },
-                {
-                    "question": "What is the key feature of democracy?",
-                    "options": [
-                        "Rule by one person",
-                        "Rule by few people",
-                        "Rule by majority with respect for minority",
-                        "Rule by the wealthy"
-                    ],
-                    "correct_answer": 2,
-                    "explanation": "The key feature of democracy is rule by majority while respecting the rights and opinions of minorities."
-                }
-            ],
-            "Features of Democracy": [
-                {
-                    "question": "Elections in a democracy should be:",
-                    "options": [
-                        "Held once in 10 years",
-                        "Free and fair",
-                        "Only for educated people",
-                        "Controlled by the government"
-                    ],
-                    "correct_answer": 1,
-                    "explanation": "Elections in a democracy must be free and fair, allowing people to choose their representatives without coercion or fraud."
-                },
-                {
-                    "question": "Universal Adult Franchise means:",
-                    "options": [
-                        "Only adults can vote",
-                        "All adults have the right to vote",
-                        "Only educated adults can vote",
-                        "Only wealthy adults can vote"
-                    ],
-                    "correct_answer": 1,
-                    "explanation": "Universal Adult Franchise means all adult citizens have the right to vote, regardless of their gender, religion, race, or economic status."
-                }
-            ]
-        },
+  "What is Democracy?Why Democracy?": {
+    "Introduction to Democracy": [
+      {
+        "question": "The word 'Democracy' comes from which language?",
+        "options": [
+          "Latin",
+          "Greek",
+          "Sanskrit",
+          "French"
+        ],
+        "correct_answer": 1,
+        "explanation": "The word 'Democracy' comes from Greek language, where 'demos' means people and 'kratia' means rule or power."
+      },
+      {
+        "question": "What does 'demos' mean in Greek?",
+        "options": [
+          "Rule",
+          "Government",
+          "People",
+          "Power"
+        ],
+        "correct_answer": 2,
+        "explanation": "'Demos' is a Greek word that means 'people', which forms the first part of the word democracy."
+      },
+      {
+        "question": "What does 'kratia' mean in Greek?",
+        "options": [
+          "People",
+          "Rule or power",
+          "Government",
+          "Nation"
+        ],
+        "correct_answer": 1,
+        "explanation": "'Kratia' is a Greek word meaning 'rule' or 'power', which forms the second part of the word democracy."
+      },
+      {
+        "question": "Democracy means:",
+        "options": [
+          "Rule by the rich",
+          "Rule by the people",
+          "Rule by the military",
+          "Rule by the king"
+        ],
+        "correct_answer": 1,
+        "explanation": "Democracy literally means 'rule by the people' as it comes from Greek words 'demos' (people) and 'kratia' (rule)."
+      },
+      {
+        "question": "Which of the following best describes democracy?",
+        "options": [
+          "Government by a few people",
+          "Government by one person",
+          "Government by and for the people",
+          "Government by the military"
+        ],
+        "correct_answer": 2,
+        "explanation": "Democracy is best described as government by and for the people, where citizens participate in governance and government works for their welfare."
+      }
+    ],
+    "Features of Democracy": [
+      {
+        "question": "In a democracy, the final decision-making power rests with:",
+        "options": [
+          "The army",
+          "The rich people",
+          "Those elected by the people",
+          "The bureaucrats"
+        ],
+        "correct_answer": 2,
+        "explanation": "In a democracy, final decision-making power rests with elected representatives who are chosen by the people through elections."
+      },
+      {
+        "question": "A democratic government is one where:",
+        "options": [
+          "The military rules",
+          "People choose their rulers",
+          "The king rules",
+          "The rich rule"
+        ],
+        "correct_answer": 1,
+        "explanation": "A key feature of democratic government is that people have the power to choose their rulers through free and fair elections."
+      },
+      {
+        "question": "Which is a key feature of democracy?",
+        "options": [
+          "Rule by force",
+          "Rule by heredity",
+          "Rule by consent",
+          "Rule by wealth"
+        ],
+        "correct_answer": 2,
+        "explanation": "Rule by consent is a key feature of democracy, meaning the government must have the consent and support of the people."
+      },
+      {
+        "question": "In a democracy, governments are formed by:",
+        "options": [
+          "Military coup",
+          "Inheritance",
+          "Elections",
+          "Appointment by king"
+        ],
+        "correct_answer": 2,
+        "explanation": "In a democracy, governments are formed through elections where people vote for their representatives."
+      },
+      {
+        "question": "Democratic governments are accountable to:",
+        "options": [
+          "The military",
+          "The people",
+          "Foreign countries",
+          "Religious leaders"
+        ],
+        "correct_answer": 1,
+        "explanation": "Democratic governments are accountable to the people who elected them and must answer for their actions and decisions."
+      }
+    ],
+    "Why Democracy?": [
+      {
+        "question": "Democracy is considered the best form of government because:",
+        "options": [
+          "It is the fastest in decision making",
+          "It promotes equality and individual freedom",
+          "It is the cheapest form of government",
+          "It eliminates all conflicts"
+        ],
+        "correct_answer": 1,
+        "explanation": "Democracy is valued because it promotes equality among citizens and protects individual freedoms and rights."
+      },
+      {
+        "question": "Which of the following is NOT an argument in favour of democracy?",
+        "options": [
+          "It promotes equality",
+          "It enhances dignity of citizens",
+          "It is always efficient",
+          "It allows peaceful resolution of conflicts"
+        ],
+        "correct_answer": 2,
+        "explanation": "Democracy is not always efficient in decision-making as it involves consultation and discussion, which can be time-consuming."
+      },
+      {
+        "question": "Democracy provides a method to deal with:",
+        "options": [
+          "Natural disasters only",
+          "Economic problems only",
+          "Differences and conflicts",
+          "Foreign invasions only"
+        ],
+        "correct_answer": 2,
+        "explanation": "Democracy provides peaceful methods to deal with differences and conflicts through discussion, debate, and negotiation."
+      },
+      {
+        "question": "In a democracy, citizens have the right to:",
+        "options": [
+          "Only vote",
+          "Only protest",
+          "Participate in decision making",
+          "Only pay taxes"
+        ],
+        "correct_answer": 2,
+        "explanation": "Democracy allows citizens to participate in decision-making through voting, discussions, protests, and other forms of civic engagement."
+      },
+      {
+        "question": "Democracy is valued because it:",
+        "options": [
+          "Makes all citizens rich",
+          "Eliminates all problems",
+          "Respects individual dignity",
+          "Prevents all conflicts"
+        ],
+        "correct_answer": 2,
+        "explanation": "Democracy is valued because it respects and enhances the dignity of every individual citizen, treating them as equals."
+      }
+    ],
+    "Broader Meaning of Democracy": [
+      {
+        "question": "Democracy as a principle can be applied to:",
+        "options": [
+          "Only government",
+          "Only schools",
+          "Any sphere of life",
+          "Only family"
+        ],
+        "correct_answer": 2,
+        "explanation": "Democratic principles of consultation, participation, and equality can be applied to any sphere of life including family, school, and workplace."
+      },
+      {
+        "question": "A democratic family is one where:",
+        "options": [
+          "The father takes all decisions",
+          "All members have a say in important decisions",
+          "Only earning members decide",
+          "The eldest member decides"
+        ],
+        "correct_answer": 1,
+        "explanation": "In a democratic family, all members participate in decision-making and important decisions are taken with consultation and consent of family members."
+      },
+      {
+        "question": "The basic principle of democracy is:",
+        "options": [
+          "Efficiency",
+          "Speed",
+          "Consultation and consent",
+          "Profit"
+        ],
+        "correct_answer": 2,
+        "explanation": "The basic principle of democracy is consultation and consent, where decisions are made after discussion and with the agreement of people."
+      },
+      {
+        "question": "Democracy in daily life means:",
+        "options": [
+          "Following orders without question",
+          "Equal participation in decision making",
+          "Leaving all decisions to leaders",
+          "Avoiding all conflicts"
+        ],
+        "correct_answer": 1,
+        "explanation": "Democracy in daily life means everyone has equal opportunity to participate in decisions that affect them."
+      }
+    ],
+    "Arguments Against Democracy": [
+      {
+        "question": "Which is often cited as a disadvantage of democracy?",
+        "options": [
+          "It promotes equality",
+          "It leads to political instability",
+          "It respects individual rights",
+          "It allows free speech"
+        ],
+        "correct_answer": 1,
+        "explanation": "Critics argue that democracy can lead to political instability due to frequent changes in government and policies."
+      },
+      {
+        "question": "Critics argue that democracy leads to:",
+        "options": [
+          "Quick decision making",
+          "Delay in decision making",
+          "No conflicts",
+          "Better economic growth always"
+        ],
+        "correct_answer": 1,
+        "explanation": "Democracy often leads to delays in decision-making because it involves consultation, discussion, and consensus-building."
+      },
+      {
+        "question": "Some people argue that democracy:",
+        "options": [
+          "Always produces good results",
+          "Is rule by educated people",
+          "Is rule by politicians who may be corrupt",
+          "Never changes governments"
+        ],
+        "correct_answer": 2,
+        "explanation": "Critics argue that democracy can become rule by corrupt politicians who may not always work in the best interests of the people."
+      },
+      {
+        "question": "An argument against democracy is that it:",
+        "options": [
+          "Promotes equality",
+          "Leads to frequent change of leadership",
+          "Allows participation",
+          "Protects rights"
+        ],
+        "correct_answer": 1,
+        "explanation": "Critics argue that frequent changes in leadership in democracy can lead to inconsistent policies and lack of long-term planning."
+      }
+    ],
+    "Democracy and Decision Making": [
+      {
+        "question": "In a democracy, major decisions should be taken by:",
+        "options": [
+          "Military leaders",
+          "Elected representatives",
+          "Business leaders",
+          "Foreign experts"
+        ],
+        "correct_answer": 1,
+        "explanation": "In a democracy, major decisions should be taken by elected representatives who are accountable to the people."
+      },
+      {
+        "question": "Democratic decision making is based on:",
+        "options": [
+          "Force",
+          "Wealth",
+          "Discussion and consensus",
+          "Tradition only"
+        ],
+        "correct_answer": 2,
+        "explanation": "Democratic decision-making is based on discussion, debate, and reaching consensus through peaceful means."
+      },
+      {
+        "question": "Free and fair elections are important because they:",
+        "options": [
+          "Are expensive",
+          "Take time",
+          "Ensure peaceful transfer of power",
+          "Create conflicts"
+        ],
+        "correct_answer": 2,
+        "explanation": "Free and fair elections are crucial as they ensure peaceful transfer of power and legitimacy of the government."
+      },
+      {
+        "question": "In a democracy, the opposition is important because it:",
+        "options": [
+          "Creates problems",
+          "Keeps the government accountable",
+          "Wastes time",
+          "Confuses people"
+        ],
+        "correct_answer": 1,
+        "explanation": "The opposition plays a vital role in democracy by keeping the government accountable and providing alternative viewpoints."
+      }
+    ],
+    "Democracy and Rights": [
+      {
+        "question": "Democracy is closely connected with:",
+        "options": [
+          "Dictatorship",
+          "Individual rights and freedoms",
+          "Military rule",
+          "Economic inequality"
+        ],
+        "correct_answer": 1,
+        "explanation": "Democracy is closely connected with individual rights and freedoms, as it protects and promotes the rights of all citizens."
+      },
+      {
+        "question": "In a democracy, minorities are:",
+        "options": [
+          "Ignored",
+          "Suppressed",
+          "Protected through constitutional rights",
+          "Not allowed to participate"
+        ],
+        "correct_answer": 2,
+        "explanation": "In a democracy, minorities are protected through constitutional rights and safeguards to prevent majority tyranny."
+      },
+      {
+        "question": "Democratic rights include:",
+        "options": [
+          "Only right to vote",
+          "Only right to speak",
+          "Right to participate, protest, and be heard",
+          "Only right to work"
+        ],
+        "correct_answer": 2,
+        "explanation": "Democratic rights are comprehensive and include the right to participate in governance, protest peacefully, and have one's voice heard."
+      }
+    ]
+  },
         "Constitutional Design": {
             "Democratic Constitution in South Africa": [
                 {
